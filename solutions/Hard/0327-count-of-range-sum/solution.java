@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap
 // Link     : https://leetcode.com/problems/count-of-range-sum/
-// Runtime  : 55 ms (beats 91%)
-// Memory   : 80236000 (beats 78%)
+// Runtime  : 54 ms (beats 97%)
+// Memory   : 80288000 (beats 78%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
