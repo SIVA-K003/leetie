@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix
 // Link     : https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
-// Runtime  : 101 ms (beats 95%)
-// Memory   : 55920000 (beats 95%)
+// Runtime  : 107 ms (beats 95%)
+// Memory   : 55888000 (beats 95%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
