@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 8 Solved
+## Progress Summary: 9 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,3 +14,4 @@
 | perfect-squares | Perfect Squares | Medium | java | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.java) |
 | power-of-four | Power of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
 | sort-an-array | Sort an Array | Medium | java | [Problem](https://leetcode.com/problems/sort-an-array/) | [Solution](./solutions/Medium/0912-sort-an-array/solution.java) |
+| sum-of-two-integers | Sum of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
