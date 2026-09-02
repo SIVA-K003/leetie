@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Math, Geometry, Euclidean Algorithm, Greatest Common Divisor
 // Link     : https://leetcode.com/problems/max-points-on-a-line/
-// Runtime  : 31 ms (beats 58%)
-// Memory   : 45932000 (beats 83%)
+// Runtime  : 33 ms (beats 43%)
+// Memory   : 46552000 (beats 34%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
