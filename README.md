@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 11 Solved
+## Progress Summary: 12 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | construct-uniform-parity-array-i | Construct Uniform Parity Array I | Easy | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.java) |
+| construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | count-of-range-sum | Count of Range Sum | Hard | java | [Problem](https://leetcode.com/problems/count-of-range-sum/) | [Solution](./solutions/Hard/0327-count-of-range-sum/solution.java) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | java | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.java) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
