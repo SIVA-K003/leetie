@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Linked List, Design, Hash Function
 // Link     : https://leetcode.com/problems/design-hashmap/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42708000 (beats 0%)
+// Runtime  : 19 ms (beats 70%)
+// Memory   : 50232000 (beats 84%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
