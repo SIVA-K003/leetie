@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Geometry, Number Theory, Least Common Multiple, Greatest Common Divisor
 // Link     : https://leetcode.com/problems/mirror-reflection/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42244000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 41696000 (beats 97%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
