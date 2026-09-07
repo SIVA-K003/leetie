@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Dynamic Programming, Stack, Bracket Sequences
 // Link     : https://leetcode.com/problems/longest-valid-parentheses/
-// Runtime  : 4 ms (beats 85%)
-// Memory   : 46776000 (beats 13%)
+// Runtime  : 5 ms (beats 79%)
+// Memory   : 46536000 (beats 43%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
