@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack
 // Link     : https://leetcode.com/problems/trapping-rain-water/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42632000 (beats 0%)
+// Runtime  : 1 ms (beats 57%)
+// Memory   : 47208000 (beats 97%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
