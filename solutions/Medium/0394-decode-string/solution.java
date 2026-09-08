@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Stack, Recursion
 // Link     : https://leetcode.com/problems/decode-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42632000 (beats 0%)
+// Runtime  : 1 ms (beats 85%)
+// Memory   : 42628000 (beats 87%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
