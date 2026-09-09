@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 43 Solved
+## Progress Summary: 44 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,6 +26,7 @@
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | java | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.java) |
 | intersection-of-two-arrays | Intersection of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
 | is-subsequence | Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
+| longest-chunked-palindrome-decomposition | Longest Chunked Palindrome Decomposition | Hard | java | [Problem](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Solution](./solutions/Hard/1147-longest-chunked-palindrome-decomposition/solution.java) |
 | longest-duplicate-substring | Longest Duplicate Substring | Hard | java | [Problem](https://leetcode.com/problems/longest-duplicate-substring/) | [Solution](./solutions/Hard/1044-longest-duplicate-substring/solution.java) |
 | longest-valid-parentheses | Longest Valid Parentheses | Hard | java | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.java) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
