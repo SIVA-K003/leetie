@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Design, Segment Tree, Ordered Set
 // Link     : https://leetcode.com/problems/my-calendar-i/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42768000 (beats 0%)
+// Runtime  : 23 ms (beats 78%)
+// Memory   : 47396000 (beats 41%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
