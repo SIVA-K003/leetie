@@ -4,7 +4,7 @@
 // Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/sum-of-left-leaves/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 43008000 (beats 83%)
+// Memory   : 43232000 (beats 49%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
