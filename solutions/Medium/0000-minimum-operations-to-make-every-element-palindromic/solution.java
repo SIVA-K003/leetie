@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/
-// Runtime  : 57 ms (beats 0%)
-// Memory   : 64236000 (beats 0%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42476000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
@@ -14,57 +14,69 @@ import java.util.*;
 
 class Solution {
     public long minOperations(int[] nums) {
-        List<Long> evens = new ArrayList<>();
-        List<Long> odds = new ArrayList<>();
-
-        
-        for (long i = 1; i < 100000; i++) {
-            
-            long pal1 = i;
-            long temp = i / 10;
-            while (temp > 0) {
-                pal1 = pal1 * 10 + (temp % 10);
-                temp /= 10;
-            }
-            if (pal1 % 2 == 0) evens.add(pal1);
-            else odds.add(pal1);
-
-        
-            long pal2 = i;
-            temp = i;
-            while (temp > 0) {
-                pal2 = pal2 * 10 + (temp % 10);
-                temp /= 10;
-            }
-            if (pal2 % 2 == 0) evens.add(pal2);
-            else odds.add(pal2);
-        }
-
-        Collections.sort(evens);
-        Collections.sort(odds);
-
         long totalOps = 0;
+        
         for (int x : nums) {
-            List<Long> targetList = (x % 2 == 0) ? evens : odds;
-            int pos = Collections.binarySearch(targetList, (long) x);
-            if (pos < 0) pos = -pos - 1;
+            long targetPal = getClosestPalindromeWithParity(x, x % 2 == 0);
+            totalOps += Math.abs(targetPal - x) / 2;
+        }
+        
+        return totalOps;
+    }
 
-            long minDiff = Long.MAX_VALUE;
-            if (pos < targetList.size()) {
-                minDiff = Math.min(minDiff, Math.abs(targetList.get(pos) - x));
-            }
-            if (pos > 0) {
-                minDiff = Math.min(minDiff, Math.abs(targetList.get(pos - 1) - x));
-            }
-            totalOps += minDiff / 2;
+    private long getClosestPalindromeWithParity(long num, boolean needEven) {
+        String s = String.valueOf(num);
+        int len = s.length();
+        long prefix = Long.parseLong(s.substring(0, (len + 1) / 2));
+        
+        List<Long> candidates = new ArrayList<>();
+        
+        
+        for (long i = prefix - 2; i <= prefix + 2; i++) {
+            if (i <= 0) continue;
+            
+            
+            candidates.add(makePalindrome(i, len % 2 == 0));
+            
+            candidates.add(makePalindrome(i, (len - 1) % 2 == 0));
+            candidates.add(makePalindrome(i, (len + 1) % 2 == 0));
         }
 
-        return totalOps;
+        
+        candidates.add((long) Math.pow(10, len - 1) - 1);
+        candidates.add((long) Math.pow(10, len) + 1);
+
+        long bestPal = -1;
+        long minDiff = Long.MAX_VALUE;
+
+        for (long pal : candidates) {
+            if (pal <= 0) continue;
+            
+            if ((pal % 2 == 0) == needEven) {
+                long diff = Math.abs(pal - num);
+                if (diff < minDiff) {
+                    minDiff = diff;
+                    bestPal = pal;
+                }
+            }
+        }
+
+        return bestPal;
+    }
+
+    private long makePalindrome(long prefix, boolean evenLength) {
+        long pal = prefix;
+        long temp = evenLength ? prefix : prefix / 10;
+        while (temp > 0) {
+            pal = pal * 10 + (temp % 10);
+            temp /= 10;
+        }
+        return pal;
     }
 }
 [10,12,14,16]
 [9,10,11,10]
 [125]
-9
-2
+16
+8
 2
