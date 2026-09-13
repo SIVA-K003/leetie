@@ -4,7 +4,7 @@
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/cyclically-shift-rows-and-columns/
 // Runtime  : 1 ms (beats 100%)
-// Memory   : 47304000 (beats 50%)
+// Memory   : 47080000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
