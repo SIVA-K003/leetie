@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42476000 (beats 0%)
+// Runtime  : 1 ms (beats 0%)
+// Memory   : 42804000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
@@ -14,54 +14,60 @@ import java.util.*;
 
 class Solution {
     public long minOperations(int[] nums) {
-        long totalOps = 0;
+        int n = nums.length;
+        boolean needEven = (nums[0] % 2 == 0);
         
+        // Step 1: All numbers must have the same parity
         for (int x : nums) {
-            long targetPal = getClosestPalindromeWithParity(x, x % 2 == 0);
-            totalOps += Math.abs(targetPal - x) / 2;
+            if ((x % 2 == 0) != needEven) {
+                return -1;
+            }
         }
         
-        return totalOps;
+        Arrays.sort(nums);
+        int median = nums[n / 2];
+        
+        // Step 2: Generate palindrome candidates around the median
+        List<Long> candidates = getPalindromeCandidates(median, needEven);
+        
+        // Step 3: Find candidate palindrome that minimizes total operations
+        long minOps = Long.MAX_VALUE;
+        for (long pal : candidates) {
+            long currentOps = 0;
+            for (int x : nums) {
+                currentOps += Math.abs(x - pal) / 2;
+            }
+            minOps = Math.min(minOps, currentOps);
+        }
+        
+        return minOps;
     }
 
-    private long getClosestPalindromeWithParity(long num, boolean needEven) {
+    private List<Long> getPalindromeCandidates(long num, boolean needEven) {
         String s = String.valueOf(num);
         int len = s.length();
         long prefix = Long.parseLong(s.substring(0, (len + 1) / 2));
         
         List<Long> candidates = new ArrayList<>();
         
-        
-        for (long i = prefix - 2; i <= prefix + 2; i++) {
+        for (long i = prefix - 10; i <= prefix + 10; i++) {
             if (i <= 0) continue;
-            
-            
-            candidates.add(makePalindrome(i, len % 2 == 0));
-            
-            candidates.add(makePalindrome(i, (len - 1) % 2 == 0));
-            candidates.add(makePalindrome(i, (len + 1) % 2 == 0));
+            addIfMatchingParity(candidates, makePalindrome(i, len % 2 == 0), needEven);
+            addIfMatchingParity(candidates, makePalindrome(i, (len - 1) % 2 == 0), needEven);
+            addIfMatchingParity(candidates, makePalindrome(i, (len + 1) % 2 == 0), needEven);
         }
 
-        
-        candidates.add((long) Math.pow(10, len - 1) - 1);
-        candidates.add((long) Math.pow(10, len) + 1);
+        // Boundary length transitions
+        addIfMatchingParity(candidates, (long) Math.pow(10, len - 1) - 1, needEven);
+        addIfMatchingParity(candidates, (long) Math.pow(10, len) + 1, needEven);
 
-        long bestPal = -1;
-        long minDiff = Long.MAX_VALUE;
+        return candidates;
+    }
 
-        for (long pal : candidates) {
-            if (pal <= 0) continue;
-            
-            if ((pal % 2 == 0) == needEven) {
-                long diff = Math.abs(pal - num);
-                if (diff < minDiff) {
-                    minDiff = diff;
-                    bestPal = pal;
-                }
-            }
+    private void addIfMatchingParity(List<Long> candidates, long pal, boolean needEven) {
+        if (pal > 0 && (pal % 2 == 0) == needEven) {
+            candidates.add(pal);
         }
-
-        return bestPal;
     }
 
     private long makePalindrome(long prefix, boolean evenLength) {
@@ -77,6 +83,6 @@ class Solution {
 [10,12,14,16]
 [9,10,11,10]
 [125]
-16
-8
+10
+-1
 2
