@@ -4,7 +4,7 @@
 # Tags     : N/A
 # Link     : https://leetcode.com/problems/count-shadow-pairs-i/
 # Runtime  : 0 ms (beats 0%)
-# Memory   : 19484000 (beats 0%)
+# Memory   : 19328000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 SIVA-K003. All rights reserved.
 # Synced by: leetie
@@ -13,24 +13,28 @@
 class Solution:
     def shadowPairs(self, nums: list[int]) -> int:
         count = 0
-        stack = [] 
+        stack = []
         
         for x in nums:
-            
+            # Pop elements strictly smaller than x; x forms a valid shadow pair with them
             while stack and stack[-1] < x:
                 stack.pop()
                 count += 1
             
+            # Count elements strictly greater than x currently in the stack
+            # Stop as soon as an element <= x is encountered
+            for prev in reversed(stack):
+                if prev > x:
+                    count += 1
+                else:
+                    break
             
-            while stack and stack[-1] == x:
-                stack.pop()
-                
             stack.append(x)
             
         return count
 [3,1,4,1,5]
 [6,7,6,6,7]
 [1,2,3,4]
+6
 4
-2
 3
