@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Dynamic Programming, Recursion
 // Link     : https://leetcode.com/problems/number-of-digit-one/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41660000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42084000 (beats 53%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
