@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 95 Solved
+## Progress Summary: 96 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -53,6 +53,7 @@
 | minimum-operations-to-make-every-element-palindromic | Minimum Operations to Make Every Element Palindromic | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/0000-minimum-operations-to-make-every-element-palindromic/solution.java) |
 | mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
 | number-of-digit-one | Number of Digit One | Hard | java | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.java) |
+| partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
 | peaks-in-array | Peaks in Array | Hard | java | [Problem](https://leetcode.com/problems/peaks-in-array/) | [Solution](./solutions/Hard/3187-peaks-in-array/solution.java) |
 | perfect-squares | 279. Perfect Squares | Medium | java | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.java) |
 | serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.java) |
