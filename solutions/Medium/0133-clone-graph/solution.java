@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, Depth-First Search, Breadth-First Search, Graph Theory
 // Link     : https://leetcode.com/problems/clone-graph/
-// Runtime  : 13 ms (beats 0%)
-// Memory   : 42788000 (beats 0%)
+// Runtime  : 28 ms (beats 13%)
+// Memory   : 44048000 (beats 89%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
