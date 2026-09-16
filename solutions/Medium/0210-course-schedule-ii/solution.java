@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
 // Link     : https://leetcode.com/problems/course-schedule-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42756000 (beats 0%)
+// Runtime  : 5 ms (beats 80%)
+// Memory   : 46608000 (beats 81%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
@@ -24,7 +24,7 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
-        // Build adjacency list and calculate in-degrees
+        
         for (int[] req : prerequisites) {
             int course = req[0];
             int prereq = req[1];
@@ -32,7 +32,7 @@ class Solution {
             inDegree[course]++;
         }
 
-        // Add courses with zero prerequisites to the queue
+        
         Queue<Integer> queue = new LinkedList<>();
         for (int i = 0; i < numCourses; i++) {
             if (inDegree[i] == 0) {
@@ -43,7 +43,7 @@ class Solution {
         int[] order = new int[numCourses];
         int index = 0;
 
-        // Process topological ordering via BFS
+        
         while (!queue.isEmpty()) {
             int current = queue.poll();
             order[index++] = current;
@@ -56,7 +56,7 @@ class Solution {
             }
         }
 
-        // Return order if all courses could be processed, else an empty array
+        
         return index == numCourses ? order : new int[0];
     }
 }
