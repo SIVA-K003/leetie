@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 103 Solved
+## Progress Summary: 104 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -34,6 +34,7 @@
 | dungeon-game | Dungeon Game | Hard | java | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.java) |
 | evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
 | find-two-non-overlapping-sub-arrays-each-with-target-sum | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
+| first-missing-positive | First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | frog-jump | Frog Jump | Hard | java | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.java) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.java) |
 | house-robber-ii | House Robber II | Medium | java | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.java) |
