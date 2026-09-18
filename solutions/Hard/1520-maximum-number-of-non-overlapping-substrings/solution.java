@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Greedy, Sorting
 // Link     : https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
-// Runtime  : 8 ms (beats 96%)
-// Memory   : 48280000 (beats 36%)
+// Runtime  : 7 ms (beats 100%)
+// Memory   : 48196000 (beats 46%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
