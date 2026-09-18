@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Greedy, Sorting
 // Link     : https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
-// Runtime  : 7 ms (beats 100%)
-// Memory   : 48196000 (beats 46%)
+// Runtime  : 8 ms (beats 96%)
+// Memory   : 48112000 (beats 46%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
@@ -51,7 +51,7 @@ class Solution {
             }
         }
 
-        
+        // Sort by end position to greedily select non-overlapping substrings
         validIntervals.sort((a, b) -> Integer.compare(a[1], b[1]));
 
         List<String> res = new ArrayList<>();
