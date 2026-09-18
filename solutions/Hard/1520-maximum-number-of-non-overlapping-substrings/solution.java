@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Greedy, Sorting
 // Link     : https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
-// Runtime  : 8 ms (beats 96%)
-// Memory   : 48112000 (beats 46%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42868000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
@@ -20,6 +20,7 @@ class Solution {
         Arrays.fill(first, -1);
         Arrays.fill(last, -1);
 
+        // Record first and last occurrence of each character
         for (int i = 0; i < n; i++) {
             int ch = s.charAt(i) - 'a';
             if (first[ch] == -1) {
@@ -28,42 +29,39 @@ class Solution {
             last[ch] = i;
         }
 
-        List<int[]> validIntervals = new ArrayList<>();
-
-        for (int i = 0; i < 26; i++) {
-            if (first[i] == -1) continue;
-
-            int left = first[i];
-            int right = last[i];
-            boolean isValid = true;
-
-            for (int j = left; j <= right; j++) {
-                int ch = s.charAt(j) - 'a';
-                if (first[ch] < left) {
-                    isValid = false;
-                    break;
-                }
-                right = Math.max(right, last[ch]);
-            }
-
-            if (isValid) {
-                validIntervals.add(new int[]{left, right});
-            }
-        }
-
-        // Sort by end position to greedily select non-overlapping substrings
-        validIntervals.sort((a, b) -> Integer.compare(a[1], b[1]));
-
         List<String> res = new ArrayList<>();
-        int prevEnd = -1;
+        int rightBound = -1;
 
-        for (int[] interval : validIntervals) {
-            if (interval[0] > prevEnd) {
-                res.add(s.substring(interval[0], interval[1] + 1));
-                prevEnd = interval[1];
+        for (int i = 0; i < n; i++) {
+            // Only start checking when 'i' is the first occurrence of a character
+            if (i == first[s.charAt(i) - 'a']) {
+                int newRight = checkSubstring(s, i, first, last);
+                
+                if (newRight != -1) {
+                    // If current start is past the previous right boundary, add new entry
+                    if (i > rightBound) {
+                        res.add("");
+                    }
+                    // Greedily update/replace with the smaller valid inner substring
+                    rightBound = newRight;
+                    res.set(res.size() - 1, s.substring(i, rightBound + 1));
+                }
             }
         }
 
         return res;
+    }
+
+    private int checkSubstring(String s, int left, int[] first, int[] last) {
+        int right = last[s.charAt(left) - 'a'];
+        for (int i = left; i <= right; i++) {
+            int ch = s.charAt(i) - 'a';
+            // If character appears before 'left', this cannot form a valid standalone starting interval
+            if (first[ch] < left) {
+                return -1;
+            }
+            right = Math.max(right, last[ch]);
+        }
+        return right;
     }
 }
