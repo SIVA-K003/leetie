@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Greedy, Sorting
 // Link     : https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
-// Runtime  : 9 ms (beats 63%)
-// Memory   : 48208000 (beats 36%)
+// Runtime  : 8 ms (beats 96%)
+// Memory   : 47956000 (beats 78%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
@@ -20,7 +20,6 @@ class Solution {
         Arrays.fill(first, -1);
         Arrays.fill(last, -1);
 
-        // Record first and last occurrence of each character
         for (int i = 0; i < n; i++) {
             int ch = s.charAt(i) - 'a';
             if (first[ch] == -1) {
@@ -29,39 +28,43 @@ class Solution {
             last[ch] = i;
         }
 
-        List<String> res = new ArrayList<>();
-        int rightBound = -1;
+        List<int[]> intervals = new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            // Only start checking when 'i' is the first occurrence of a character
-            if (i == first[s.charAt(i) - 'a']) {
-                int newRight = checkSubstring(s, i, first, last);
-                
-                if (newRight != -1) {
-                    // If current start is past the previous right boundary, add new entry
-                    if (i > rightBound) {
-                        res.add("");
-                    }
-                    // Greedily update/replace with the smaller valid inner substring
-                    rightBound = newRight;
-                    res.set(res.size() - 1, s.substring(i, rightBound + 1));
+        // Check valid expanded interval for each character's first occurrence
+        for (int i = 0; i < 26; i++) {
+            if (first[i] == -1) continue;
+
+            int l = first[i];
+            int r = last[i];
+            boolean isValid = true;
+
+            for (int j = l; j <= r; j++) {
+                int ch = s.charAt(j) - 'a';
+                if (first[ch] < l) {
+                    isValid = false; // Overlaps with a character starting before l
+                    break;
                 }
+                r = Math.max(r, last[ch]);
+            }
+
+            if (isValid) {
+                intervals.add(new int[]{l, r});
             }
         }
 
-        return res;
-    }
+        // Sort intervals by end position
+        intervals.sort((a, b) -> Integer.compare(a[1], b[1]));
 
-    private int checkSubstring(String s, int left, int[] first, int[] last) {
-        int right = last[s.charAt(left) - 'a'];
-        for (int i = left; i <= right; i++) {
-            int ch = s.charAt(i) - 'a';
-            // If character appears before 'left', this cannot form a valid standalone starting interval
-            if (first[ch] < left) {
-                return -1;
+        List<String> result = new ArrayList<>();
+        int prevEnd = -1;
+
+        for (int[] interval : intervals) {
+            if (interval[0] > prevEnd) {
+                result.add(s.substring(interval[0], interval[1] + 1));
+                prevEnd = interval[1];
             }
-            right = Math.max(right, last[ch]);
         }
-        return right;
+
+        return result;
     }
 }
