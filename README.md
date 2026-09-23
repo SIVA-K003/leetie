@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 123 Solved
+## Progress Summary: 124 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -99,6 +99,7 @@
 | logical-or-of-two-binary-grids-represented-as-quad-trees | Logical OR of Two Binary Grids Represented as Quad-Trees | Medium | java | [Problem](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Solution](./solutions/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximum-area-rectangle-with-point-constraints-ii | Maximum Area Rectangle With Point Constraints II | Hard | java | [Problem](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/) | [Solution](./solutions/Hard/3382-maximum-area-rectangle-with-point-constraints-ii/solution.java) |
+| maximum-binary-tree | Maximum Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.java) |
 | maximum-gap | Maximum Gap | Medium | java | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | maximum-number-of-non-overlapping-substrings | Maximum Number of Non-Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
