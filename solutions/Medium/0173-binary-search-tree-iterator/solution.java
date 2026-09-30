@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator
 // Link     : https://leetcode.com/problems/binary-search-tree-iterator/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 42788000 (beats 0%)
+// Runtime  : 17 ms (beats 91%)
+// Memory   : 50120000 (beats 61%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
