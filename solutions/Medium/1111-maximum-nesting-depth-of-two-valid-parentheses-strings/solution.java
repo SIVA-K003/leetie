@@ -4,7 +4,7 @@
 // Tags     : String, Stack, Bracket Sequences
 // Link     : https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
 // Runtime  : 1 ms (beats 100%)
-// Memory   : 45664000 (beats 18%)
+// Memory   : 45264000 (beats 84%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
