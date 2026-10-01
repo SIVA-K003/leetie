@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 147 Solved
+## Progress Summary: 148 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -82,6 +82,7 @@
 | sudoku-solver | Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | trapping-rain-water | 42. Trapping Rain Water | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./solutions/Hard/0042-trapping-rain-water/solution.java) |
 | ugly-number-iii | Ugly Number III | Medium | java | [Problem](https://leetcode.com/problems/ugly-number-iii/) | [Solution](./solutions/Medium/1201-ugly-number-iii/solution.java) |
+| valid-parentheses | Valid Parentheses | Easy | java | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | max-points-on-a-line | 149. Max Points On A Line | Hard | java | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.java) |
