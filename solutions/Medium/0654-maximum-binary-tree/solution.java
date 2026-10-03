@@ -3,37 +3,49 @@
 // Difficulty: Medium
 // Tags     : Array, Divide and Conquer, Stack, Tree, Monotonic Stack, Binary Tree, Cartesian Tree
 // Link     : https://leetcode.com/problems/maximum-binary-tree/
-// Runtime  : 2 ms (beats 69%)
-// Memory   : 47172000 (beats 14%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42792000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {
-        return build(nums, 0, nums.length - 1);
-    }
+        Deque<TreeNode> stack = new ArrayDeque<>();
 
-    private TreeNode build(int[] nums, int left, int right) {
-        if (left > right) {
-            return null;
-        }
+        for (int num : nums) {
+            TreeNode current = new TreeNode(num);
 
-        int maxIdx = left;
-        for (int i = left + 1; i <= right; i++) {
-            if (nums[i] > nums[maxIdx]) {
-                maxIdx = i;
+            // Pop elements smaller than 'num'; the last popped node becomes 'current.left'
+            while (!stack.isEmpty() && stack.peek().val < num) {
+                current.left = stack.pop();
             }
+
+            // The node remaining on top is larger, so 'current' becomes its right child
+            if (!stack.isEmpty()) {
+                stack.peek().right = current;
+            }
+
+            stack.push(current);
         }
 
-        
-        TreeNode root = new TreeNode(nums[maxIdx]);
-
-
-        root.left = build(nums, left, maxIdx - 1);
-        root.right = build(nums, maxIdx + 1, right);
-
-        return root;
+        // The bottom-most element in the stack (first element) is the root
+        return stack.peekLast();
     }
 }
