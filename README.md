@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 154 Solved
+## Progress Summary: 155 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -55,7 +55,6 @@
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
 | min-stack | Min Stack | Medium | java | [Problem](https://leetcode.com/problems/min-stack/) | [Solution](./solutions/Medium/0155-min-stack/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
-| mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
 | n-ary-tree-postorder-traversal | N-ary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0590-n-ary-tree-postorder-traversal/solution.java) |
 | n-ary-tree-preorder-traversal | N-ary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.java) |
 | next-permutation | 31. Next Permutation | Medium | java | [Problem](https://leetcode.com/problems/next-permutation/) | [Solution](./solutions/Medium/0031-next-permutation/solution.java) |
@@ -86,6 +85,7 @@
 | trapping-rain-water | 42. Trapping Rain Water | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./solutions/Hard/0042-trapping-rain-water/solution.java) |
 | ugly-number-iii | Ugly Number III | Medium | java | [Problem](https://leetcode.com/problems/ugly-number-iii/) | [Solution](./solutions/Medium/1201-ugly-number-iii/solution.java) |
 | valid-parentheses | Valid Parentheses | Easy | java | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.java) |
+| valid-parenthesis-string | Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | max-points-on-a-line | 149. Max Points On A Line | Hard | java | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.java) |
@@ -101,10 +101,6 @@
 | count-values-with-equally-spaced-occurrences-i | Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
 | count-values-with-equally-spaced-occurrences-ii | Count Values With Equally Spaced Occurrences II | Medium | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Solution](./solutions/Medium/4414-count-values-with-equally-spaced-occurrences-ii/solution.java) |
 | cyclically-shift-rows-and-columns | Cyclically Shift Rows and Columns | Easy | java | [Problem](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Solution](./solutions/Easy/4416-cyclically-shift-rows-and-columns/solution.java) |
-| design-circular-queue | Design Circular Queue | Medium | java | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.java) |
-| different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
-| evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
-| image-overlap | Image Overlap | Medium | java | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.java) |
 | perfect-squares | 279. Perfect Squares | Medium | java | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.java) |
 | serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.java) |
 | bulls-and-cows | 299. Bulls And Cows | Medium | java | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.java) |
@@ -113,16 +109,20 @@
 | patching-array | 330. Patching Array | Hard | java | [Problem](https://leetcode.com/problems/patching-array/) | [Solution](./solutions/Hard/0330-patching-array/solution.java) |
 | increasing-triplet-subsequence | 334. Increasing Triplet Subsequence | Medium | java | [Problem](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution](./solutions/Medium/0334-increasing-triplet-subsequence/solution.java) |
 | palindrome-pairs | 336. Palindrome Pairs | Hard | java | [Problem](https://leetcode.com/problems/palindrome-pairs/) | [Solution](./solutions/Hard/0336-palindrome-pairs/solution.java) |
-| intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
 | sum-of-two-integers | 371. Sum Of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
-| is-subsequence | 392. Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
 | decode-string | 394. Decode String | Medium | java | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.java) |
 | remove-k-digits | 402. Remove K Digits | Medium | java | [Problem](https://leetcode.com/problems/remove-k-digits/) | [Solution](./solutions/Medium/0402-remove-k-digits/solution.java) |
-| convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | reverse-pairs | 493. Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
 | random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
 | valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | degree-of-an-array | 697. Degree Of An Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
+| design-circular-queue | Design Circular Queue | Medium | java | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.java) |
+| different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
+| evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
+| image-overlap | Image Overlap | Medium | java | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.java) |
+| intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
+| is-subsequence | 392. Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
+| convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | design-hashset | 705. Design Hashset | Easy | java | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.java) |
 | design-hashmap | 706. Design Hashmap | Easy | java | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.java) |
 | range-module | 715. Range Module | Hard | java | [Problem](https://leetcode.com/problems/range-module/) | [Solution](./solutions/Hard/0715-range-module/solution.java) |
@@ -148,6 +148,7 @@
 | minimum-absolute-distance-between-mirror-pairs | Minimum Absolute Distance Between Mirror Pairs | Medium | java | [Problem](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Solution](./solutions/Medium/3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
 | minimum-days-to-score-exactly-n-points | Minimum Days to Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/4406-minimum-days-to-score-exactly-n-points/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | Minimum Operations to Make Every Element Palindromic | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/0000-minimum-operations-to-make-every-element-palindromic/solution.java) |
+| mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
 | peaks-in-array | Peaks in Array | Hard | java | [Problem](https://leetcode.com/problems/peaks-in-array/) | [Solution](./solutions/Hard/3187-peaks-in-array/solution.java) |
 | power-of-four | 342. Power Of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
 | range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
