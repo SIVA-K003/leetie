@@ -4,7 +4,7 @@
 // Tags     : String, Dynamic Programming, Stack, Bracket Sequences
 // Link     : https://leetcode.com/problems/longest-valid-parentheses/
 // Runtime  : 5 ms (beats 75%)
-// Memory   : 46260000 (beats 75%)
+// Memory   : 46560000 (beats 41%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
