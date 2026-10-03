@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Divide and Conquer, Stack, Tree, Monotonic Stack, Binary Tree, Cartesian Tree
 // Link     : https://leetcode.com/problems/maximum-binary-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42792000 (beats 0%)
+// Runtime  : 10 ms (beats 16%)
+// Memory   : 47224000 (beats 14%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
