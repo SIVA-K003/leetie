@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 153 Solved
+## Progress Summary: 154 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,6 +27,7 @@
 | dungeon-game | Dungeon Game | Hard | java | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | evaluate-the-bracket-pairs-of-a-string | Evaluate the Bracket Pairs of a String | Medium | java | [Problem](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./solutions/Medium/1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
+| exclusive-time-of-functions | Exclusive Time of Functions | Medium | java | [Problem](https://leetcode.com/problems/exclusive-time-of-functions/) | [Solution](./solutions/Medium/0636-exclusive-time-of-functions/solution.java) |
 | find-two-non-overlapping-sub-arrays-each-with-target-sum | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
 | find-x-value-of-array-i | Find X Value of Array I | Medium | java | [Problem](https://leetcode.com/problems/find-x-value-of-array-i/) | [Solution](./solutions/Medium/3524-find-x-value-of-array-i/solution.java) |
 | find-x-value-of-array-ii | Find X Value of Array II | Hard | java | [Problem](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Solution](./solutions/Hard/3525-find-x-value-of-array-ii/solution.java) |
