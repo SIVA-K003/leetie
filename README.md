@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 164 Solved
+## Progress Summary: 165 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,7 +24,6 @@
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
 | course-schedule | Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
-| dungeon-game | Dungeon Game | Hard | java | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | evaluate-the-bracket-pairs-of-a-string | Evaluate the Bracket Pairs of a String | Medium | java | [Problem](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./solutions/Medium/1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
 | exclusive-time-of-functions | Exclusive Time of Functions | Medium | java | [Problem](https://leetcode.com/problems/exclusive-time-of-functions/) | [Solution](./solutions/Medium/0636-exclusive-time-of-functions/solution.java) |
@@ -69,6 +68,7 @@
 | ransom-note | Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
 | remove-invalid-parentheses | Remove Invalid Parentheses | Hard | java | [Problem](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](./solutions/Hard/0301-remove-invalid-parentheses/solution.java) |
 | reorder-list | Reorder List | Medium | java | [Problem](https://leetcode.com/problems/reorder-list/) | [Solution](./solutions/Medium/0143-reorder-list/solution.java) |
+| reorganize-string | Reorganize String | Medium | java | [Problem](https://leetcode.com/problems/reorganize-string/) | [Solution](./solutions/Medium/0767-reorganize-string/solution.java) |
 | reverse-degree-of-a-string | Reverse Degree of a String | Easy | java | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.java) |
 | reverse-substrings-between-each-pair-of-parentheses | Reverse Substrings Between Each Pair of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution](./solutions/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
 | rotate-function | Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
@@ -127,6 +127,7 @@
 | design-hashset | 705. Design Hashset | Easy | java | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.java) |
 | design-hashmap | 706. Design Hashmap | Easy | java | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.java) |
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
+| dungeon-game | Dungeon Game | Hard | java | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.java) |
 | evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
 | image-overlap | Image Overlap | Medium | java | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.java) |
 | intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
