@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 167 Solved
+## Progress Summary: 168 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -58,6 +58,7 @@
 | is-subsequence | 392. Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
 | convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | design-hashset | 705. Design Hashset | Easy | java | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.java) |
+| kth-largest-element-in-an-array | Kth Largest Element in an Array | Medium | java | [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./solutions/Medium/0215-kth-largest-element-in-an-array/solution.java) |
 | kth-smallest-element-in-a-bst | Kth Smallest Element in a BST | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./solutions/Medium/0230-kth-smallest-element-in-a-bst/solution.java) |
 | linked-list-cycle | Linked List Cycle | Easy | java | [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./solutions/Easy/0141-linked-list-cycle/solution.java) |
 | linked-list-cycle-ii | Linked List Cycle II | Medium | java | [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./solutions/Medium/0142-linked-list-cycle-ii/solution.java) |
