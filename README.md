@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 174 Solved
+## Progress Summary: 175 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -52,12 +52,12 @@
 | maximum-gap | Maximum Gap | Medium | java | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
 | maximum-nesting-depth-of-two-valid-parentheses-strings | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Solution](./solutions/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
-| maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | maximum-number-of-non-overlapping-substrings | Maximum Number of Non-Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
 | maximum-sum-of-3-non-overlapping-subarrays | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | java | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.java) |
 | min-stack | Min Stack | Medium | java | [Problem](https://leetcode.com/problems/min-stack/) | [Solution](./solutions/Medium/0155-min-stack/solution.java) |
 | minimum-add-to-make-parentheses-valid | Minimum Add to Make Parentheses Valid | Medium | java | [Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](./solutions/Medium/0921-minimum-add-to-make-parentheses-valid/solution.java) |
 | minimum-insertions-to-balance-a-parentheses-string | Minimum Insertions to Balance a Parentheses String | Medium | java | [Problem](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Solution](./solutions/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/solution.java) |
+| minimum-number-of-arrows-to-burst-balloons | Minimum Number of Arrows to Burst Balloons | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](./solutions/Medium/0452-minimum-number-of-arrows-to-burst-balloons/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
 | my-calendar-ii | My Calendar II | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.java) |
 | my-calendar-iii | My Calendar III | Hard | java | [Problem](https://leetcode.com/problems/my-calendar-iii/) | [Solution](./solutions/Hard/0732-my-calendar-iii/solution.java) |
@@ -138,27 +138,31 @@
 | lowest-common-ancestor-of-a-binary-tree | Lowest Common Ancestor of a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./solutions/Medium/0236-lowest-common-ancestor-of-a-binary-tree/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximum-area-rectangle-with-point-constraints-ii | Maximum Area Rectangle With Point Constraints II | Hard | java | [Problem](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/) | [Solution](./solutions/Hard/3382-maximum-area-rectangle-with-point-constraints-ii/solution.java) |
+| maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
 | maximum-score-of-non-overlapping-intervals | Maximum Score of Non-overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | minimum-absolute-distance-between-mirror-pairs | Minimum Absolute Distance Between Mirror Pairs | Medium | java | [Problem](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Solution](./solutions/Medium/3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
 | minimum-days-to-score-exactly-n-points | Minimum Days to Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/4406-minimum-days-to-score-exactly-n-points/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | Minimum Operations to Make Every Element Palindromic | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/0000-minimum-operations-to-make-every-element-palindromic/solution.java) |
 | mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
-| reverse-pairs | 493. Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
-| random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
-| valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
-| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
-| degree-of-an-array | 697. Degree Of An Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
-| design-hashset | 705. Design Hashset | Easy | java | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.java) |
-| design-hashmap | 706. Design Hashmap | Easy | java | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.java) |
 | number-of-digit-one | Number of Digit One | Hard | java | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.java) |
 | peaks-in-array | Peaks in Array | Hard | java | [Problem](https://leetcode.com/problems/peaks-in-array/) | [Solution](./solutions/Hard/3187-peaks-in-array/solution.java) |
 | power-of-four | 342. Power Of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
 | range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
-| range-module | 715. Range Module | Hard | java | [Problem](https://leetcode.com/problems/range-module/) | [Solution](./solutions/Hard/0715-range-module/solution.java) |
+| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | range-sum-query-mutable | Range Sum Query - Mutable | Medium | java | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.java) |
 | rectangle-overlap | Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
+| reverse-pairs | 493. Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
+| random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
 | reverse-words-in-a-string | Reverse Words in a String | Medium | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./solutions/Medium/0151-reverse-words-in-a-string/solution.java) |
+| sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
+| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
+| unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
+| valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
+| degree-of-an-array | 697. Degree Of An Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
+| design-hashset | 705. Design Hashset | Easy | java | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.java) |
+| design-hashmap | 706. Design Hashmap | Easy | java | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.java) |
+| range-module | 715. Range Module | Hard | java | [Problem](https://leetcode.com/problems/range-module/) | [Solution](./solutions/Hard/0715-range-module/solution.java) |
 | self-dividing-numbers | 728. Self Dividing Numbers | Easy | java | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.java) |
 | my-calendar-i | 729. My Calendar I | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-i/) | [Solution](./solutions/Medium/0729-my-calendar-i/solution.java) |
 | mirror-reflection | 858. Mirror Reflection | Medium | java | [Problem](https://leetcode.com/problems/mirror-reflection/) | [Solution](./solutions/Medium/0858-mirror-reflection/solution.java) |
@@ -176,7 +180,4 @@
 | construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
 | smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
-| sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
-| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
-| unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
 | x-of-a-kind-in-a-deck-of-cards | X of a Kind in a Deck of Cards | Easy | java | [Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Solution](./solutions/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.java) |
