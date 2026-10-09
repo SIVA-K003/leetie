@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 175 Solved
+## Progress Summary: 176 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -57,6 +57,7 @@
 | min-stack | Min Stack | Medium | java | [Problem](https://leetcode.com/problems/min-stack/) | [Solution](./solutions/Medium/0155-min-stack/solution.java) |
 | minimum-add-to-make-parentheses-valid | Minimum Add to Make Parentheses Valid | Medium | java | [Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](./solutions/Medium/0921-minimum-add-to-make-parentheses-valid/solution.java) |
 | minimum-insertions-to-balance-a-parentheses-string | Minimum Insertions to Balance a Parentheses String | Medium | java | [Problem](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Solution](./solutions/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/solution.java) |
+| minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.java) |
 | minimum-number-of-arrows-to-burst-balloons | Minimum Number of Arrows to Burst Balloons | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](./solutions/Medium/0452-minimum-number-of-arrows-to-burst-balloons/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
 | my-calendar-ii | My Calendar II | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.java) |
