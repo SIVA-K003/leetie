@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String, Greedy
 // Link     : https://leetcode.com/problems/longest-palindrome/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42592000 (beats 0%)
+// Runtime  : 2 ms (beats 72%)
+// Memory   : 42956000 (beats 82%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
