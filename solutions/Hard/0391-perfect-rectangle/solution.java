@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Math, Geometry, Sweep Line
 // Link     : https://leetcode.com/problems/perfect-rectangle/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 42544000 (beats 0%)
+// Runtime  : 39 ms (beats 61%)
+// Memory   : 56112000 (beats 15%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
