@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 181 Solved
+## Progress Summary: 182 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -61,6 +61,7 @@
 | minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.java) |
 | minimum-number-of-arrows-to-burst-balloons | Minimum Number of Arrows to Burst Balloons | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](./solutions/Medium/0452-minimum-number-of-arrows-to-burst-balloons/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
+| minimum-sum-of-squared-difference | Minimum Sum of Squared Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Solution](./solutions/Medium/2333-minimum-sum-of-squared-difference/solution.java) |
 | my-calendar-ii | My Calendar II | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.java) |
 | my-calendar-iii | My Calendar III | Hard | java | [Problem](https://leetcode.com/problems/my-calendar-iii/) | [Solution](./solutions/Hard/0732-my-calendar-iii/solution.java) |
 | n-ary-tree-postorder-traversal | N-ary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0590-n-ary-tree-postorder-traversal/solution.java) |
