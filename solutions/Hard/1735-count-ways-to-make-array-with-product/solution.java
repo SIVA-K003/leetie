@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math, Dynamic Programming, Combinatorics, Number Theory, Prime Factorization, Fermat's Little Theorem
 // Link     : https://leetcode.com/problems/count-ways-to-make-array-with-product/
-// Runtime  : 44 ms (beats 0%)
-// Memory   : 45056000 (beats 0%)
+// Runtime  : 44 ms (beats 18%)
+// Memory   : 51380000 (beats 32%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
