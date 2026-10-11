@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math, Union-Find, Number Theory
 // Link     : https://leetcode.com/problems/graph-connectivity-with-threshold/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42988000 (beats 0%)
+// Runtime  : 6 ms (beats 100%)
+// Memory   : 76984000 (beats 62%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
