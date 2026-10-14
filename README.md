@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 189 Solved
+## Progress Summary: 190 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -55,6 +55,7 @@
 | next-permutation | 31. Next Permutation | Medium | java | [Problem](https://leetcode.com/problems/next-permutation/) | [Solution](./solutions/Medium/0031-next-permutation/solution.java) |
 | longest-valid-parentheses | 32. Longest Valid Parentheses | Hard | java | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.java) |
 | lru-cache | LRU Cache | Medium | java | [Problem](https://leetcode.com/problems/lru-cache/) | [Solution](./solutions/Medium/0146-lru-cache/solution.java) |
+| maximize-sum-of-squares-of-digits | Maximize Sum of Squares of Digits | Medium | java | [Problem](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Solution](./solutions/Medium/3723-maximize-sum-of-squares-of-digits/solution.java) |
 | maximum-binary-tree | Maximum Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.java) |
 | maximum-gap | Maximum Gap | Medium | java | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
