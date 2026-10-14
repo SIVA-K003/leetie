@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Greedy
 // Link     : https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
-// Runtime  : 128 ms (beats 26%)
-// Memory   : 47476000 (beats 94%)
+// Runtime  : 130 ms (beats 21%)
+// Memory   : 47304000 (beats 99%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
