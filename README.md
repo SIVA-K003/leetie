@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 195 Solved
+## Progress Summary: 196 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -42,6 +42,7 @@
 | insertion-sort-list | Insertion Sort List | Medium | java | [Problem](https://leetcode.com/problems/insertion-sort-list/) | [Solution](./solutions/Medium/0147-insertion-sort-list/solution.java) |
 | jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
 | kth-largest-element-in-an-array | Kth Largest Element in an Array | Medium | java | [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./solutions/Medium/0215-kth-largest-element-in-an-array/solution.java) |
+| kth-smallest-element-in-a-sorted-matrix | Kth Smallest Element in a Sorted Matrix | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution](./solutions/Medium/0378-kth-smallest-element-in-a-sorted-matrix/solution.java) |
 | linked-list-cycle | Linked List Cycle | Easy | java | [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./solutions/Easy/0141-linked-list-cycle/solution.java) |
 | linked-list-cycle-ii | Linked List Cycle II | Medium | java | [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./solutions/Medium/0142-linked-list-cycle-ii/solution.java) |
 | logical-or-of-two-binary-grids-represented-as-quad-trees | Logical OR of Two Binary Grids Represented as Quad-Trees | Medium | java | [Problem](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Solution](./solutions/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/solution.java) |
