@@ -2,14 +2,19 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 196 Solved
+## Progress Summary: 197 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
 | apply-operations-on-array-to-maximize-sum-of-squares | Apply Operations on Array to Maximize Sum of Squares | Hard | java | [Problem](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Solution](./solutions/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.java) |
+| arithmetic-slices | Arithmetic Slices | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.java) |
 | arithmetic-slices-ii-subsequence | Arithmetic Slices II - Subsequence | Hard | java | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.java) |
+| best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.java) |
+| best-time-to-buy-and-sell-stock-iv | Best Time to Buy and Sell Stock IV | Hard | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](./solutions/Hard/0188-best-time-to-buy-and-sell-stock-iv/solution.java) |
 | best-time-to-buy-and-sell-stock-with-cooldown | Best Time to Buy and Sell Stock with Cooldown | Medium | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](./solutions/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/solution.java) |
 | binary-search-tree-iterator | Binary Search Tree Iterator | Medium | java | [Problem](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](./solutions/Medium/0173-binary-search-tree-iterator/solution.java) |
+| binary-tree-paths | Binary Tree Paths | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.java) |
 | binary-tree-postorder-traversal | Binary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0145-binary-tree-postorder-traversal/solution.java) |
 | binary-tree-preorder-traversal | Binary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0144-binary-tree-preorder-traversal/solution.java) |
 | binary-tree-right-side-view | Binary Tree Right Side View | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.java) |
@@ -18,11 +23,11 @@
 | can-i-win | Can I Win | Medium | java | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.java) |
 | check-if-there-is-a-valid-parentheses-string-path | Check if There Is a Valid Parentheses String Path | Hard | java | [Problem](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Solution](./solutions/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/solution.java) |
 | circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | java | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.java) |
+| clone-graph | Clone Graph | Medium | java | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.java) |
 | construct-binary-tree-from-preorder-and-postorder-traversal | Construct Binary Tree from Preorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
 | count-ways-to-make-array-with-product | Count Ways to Make Array With Product | Hard | java | [Problem](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Solution](./solutions/Hard/1735-count-ways-to-make-array-with-product/solution.java) |
-| course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | evaluate-the-bracket-pairs-of-a-string | Evaluate the Bracket Pairs of a String | Medium | java | [Problem](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./solutions/Medium/1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
 | exclusive-time-of-functions | Exclusive Time of Functions | Medium | java | [Problem](https://leetcode.com/problems/exclusive-time-of-functions/) | [Solution](./solutions/Medium/0636-exclusive-time-of-functions/solution.java) |
@@ -102,30 +107,26 @@
 | the-skyline-problem | The Skyline Problem | Hard | java | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.java) |
 | top-k-frequent-words | Top K Frequent Words | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./solutions/Medium/0692-top-k-frequent-words/solution.java) |
 | trapping-rain-water | 42. Trapping Rain Water | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./solutions/Hard/0042-trapping-rain-water/solution.java) |
+| trapping-rain-water-ii | Trapping Rain Water II | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.java) |
 | ugly-number-iii | Ugly Number III | Medium | java | [Problem](https://leetcode.com/problems/ugly-number-iii/) | [Solution](./solutions/Medium/1201-ugly-number-iii/solution.java) |
 | valid-parentheses | Valid Parentheses | Easy | java | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.java) |
 | valid-parenthesis-string | Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | max-points-on-a-line | 149. Max Points On A Line | Hard | java | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.java) |
+| combine-two-tables | 175. Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
 | house-robber | 198. House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
+| contains-duplicate-ii | 219. Contains Duplicate Ii | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
 | contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | java | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.java) |
 | sliding-window-maximum | 239. Sliding Window Maximum | Hard | java | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.java) |
 | search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
 | add-digits | 258. Add Digits | Easy | java | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.java) |
-| add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
-| arithmetic-slices | Arithmetic Slices | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.java) |
-| best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.java) |
-| best-time-to-buy-and-sell-stock-iv | Best Time to Buy and Sell Stock IV | Hard | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](./solutions/Hard/0188-best-time-to-buy-and-sell-stock-iv/solution.java) |
-| binary-tree-paths | Binary Tree Paths | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.java) |
-| clone-graph | Clone Graph | Medium | java | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.java) |
-| combine-two-tables | 175. Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
-| contains-duplicate-ii | 219. Contains Duplicate Ii | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
 | count-shadow-pairs-i | Count Shadow Pairs I | Medium | java | [Problem](https://leetcode.com/problems/count-shadow-pairs-i/) | [Solution](./solutions/Medium/0000-count-shadow-pairs-i/solution.java) |
 | count-shadow-pairs-ii | Count Shadow Pairs II | Hard | python3 | [Problem](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Solution](./solutions/Hard/4326-count-shadow-pairs-ii/solution.py) |
 | count-values-with-equally-spaced-occurrences-i | Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
 | count-values-with-equally-spaced-occurrences-ii | Count Values With Equally Spaced Occurrences II | Medium | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Solution](./solutions/Medium/4414-count-values-with-equally-spaced-occurrences-ii/solution.java) |
 | course-schedule | Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
+| course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
 | cyclically-shift-rows-and-columns | Cyclically Shift Rows and Columns | Easy | java | [Problem](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Solution](./solutions/Easy/4416-cyclically-shift-rows-and-columns/solution.java) |
 | design-circular-queue | Design Circular Queue | Medium | java | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.java) |
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
@@ -153,6 +154,10 @@
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
 | peaks-in-array | Peaks in Array | Hard | java | [Problem](https://leetcode.com/problems/peaks-in-array/) | [Solution](./solutions/Hard/3187-peaks-in-array/solution.java) |
 | perfect-squares | 279. Perfect Squares | Medium | java | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.java) |
+| range-sum-query-mutable | Range Sum Query - Mutable | Medium | java | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.java) |
+| rectangle-overlap | Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
+| reverse-words-in-a-string | Reverse Words in a String | Medium | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./solutions/Medium/0151-reverse-words-in-a-string/solution.java) |
+| rotate-function | Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
 | serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.java) |
 | bulls-and-cows | 299. Bulls And Cows | Medium | java | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.java) |
 | coin-change | 322. Coin Change | Medium | java | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.java) |
@@ -162,12 +167,6 @@
 | palindrome-pairs | 336. Palindrome Pairs | Hard | java | [Problem](https://leetcode.com/problems/palindrome-pairs/) | [Solution](./solutions/Hard/0336-palindrome-pairs/solution.java) |
 | power-of-four | 342. Power Of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
 | intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
-| range-sum-query-mutable | Range Sum Query - Mutable | Medium | java | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.java) |
-| rectangle-overlap | Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
-| reverse-words-in-a-string | Reverse Words in a String | Medium | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./solutions/Medium/0151-reverse-words-in-a-string/solution.java) |
-| rotate-function | Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
-| split-array-largest-sum | Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
-| sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | sum-of-two-integers | 371. Sum Of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
 | is-subsequence | 392. Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
 | decode-string | 394. Decode String | Medium | java | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.java) |
@@ -175,7 +174,10 @@
 | convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | reverse-pairs | 493. Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
 | random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
+| split-array-largest-sum | Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
+| sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
+| unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
 | valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
@@ -200,5 +202,4 @@
 | construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
 | smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
-| unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
 | x-of-a-kind-in-a-deck-of-cards | X of a Kind in a Deck of Cards | Easy | java | [Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Solution](./solutions/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.java) |
