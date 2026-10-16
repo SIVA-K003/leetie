@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String
 // Link     : https://leetcode.com/problems/validate-ip-address/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41416000 (beats 0%)
+// Runtime  : 1 ms (beats 94%)
+// Memory   : 42620000 (beats 94%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
