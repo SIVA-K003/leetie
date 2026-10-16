@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 200 Solved
+## Progress Summary: 201 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -102,7 +102,6 @@
 | subarrays-distinct-element-sum-of-squares-i | Subarrays Distinct Element Sum of Squares I | Easy | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Solution](./solutions/Easy/2913-subarrays-distinct-element-sum-of-squares-i/solution.java) |
 | subarrays-distinct-element-sum-of-squares-ii | Subarrays Distinct Element Sum of Squares II | Hard | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [Solution](./solutions/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/solution.java) |
 | subdomain-visit-count | Subdomain Visit Count | Medium | java | [Problem](https://leetcode.com/problems/subdomain-visit-count/) | [Solution](./solutions/Medium/0811-subdomain-visit-count/solution.java) |
-| substring-with-concatenation-of-all-words | Substring with Concatenation of All Words | Hard | java | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.java) |
 | sudoku-solver | Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | sum-of-squares-of-special-elements | Sum of Squares of Special Elements | Easy | java | [Problem](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Solution](./solutions/Easy/2778-sum-of-squares-of-special-elements/solution.java) |
 | tag-validator | Tag Validator | Hard | java | [Problem](https://leetcode.com/problems/tag-validator/) | [Solution](./solutions/Hard/0591-tag-validator/solution.java) |
@@ -111,6 +110,7 @@
 | trapping-rain-water | 42. Trapping Rain Water | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./solutions/Hard/0042-trapping-rain-water/solution.java) |
 | trapping-rain-water-ii | Trapping Rain Water II | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.java) |
 | ugly-number-iii | Ugly Number III | Medium | java | [Problem](https://leetcode.com/problems/ugly-number-iii/) | [Solution](./solutions/Medium/1201-ugly-number-iii/solution.java) |
+| unique-substrings-in-wraparound-string | Unique Substrings in Wraparound String | Medium | java | [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Solution](./solutions/Medium/0467-unique-substrings-in-wraparound-string/solution.java) |
 | valid-parentheses | Valid Parentheses | Easy | java | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.java) |
 | valid-parenthesis-string | Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
@@ -120,9 +120,6 @@
 | house-robber | 198. House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
 | contains-duplicate-ii | 219. Contains Duplicate Ii | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
 | contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | java | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.java) |
-| sliding-window-maximum | 239. Sliding Window Maximum | Hard | java | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.java) |
-| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
-| add-digits | 258. Add Digits | Easy | java | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.java) |
 | count-shadow-pairs-i | Count Shadow Pairs I | Medium | java | [Problem](https://leetcode.com/problems/count-shadow-pairs-i/) | [Solution](./solutions/Medium/0000-count-shadow-pairs-i/solution.java) |
 | count-shadow-pairs-ii | Count Shadow Pairs II | Hard | python3 | [Problem](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Solution](./solutions/Hard/4326-count-shadow-pairs-ii/solution.py) |
 | count-values-with-equally-spaced-occurrences-i | Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
@@ -156,11 +153,14 @@
 | number-of-sets-of-k-non-overlapping-line-segments | Number of Sets of K Non-Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
 | peaks-in-array | Peaks in Array | Hard | java | [Problem](https://leetcode.com/problems/peaks-in-array/) | [Solution](./solutions/Hard/3187-peaks-in-array/solution.java) |
-| perfect-squares | 279. Perfect Squares | Medium | java | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.java) |
 | range-sum-query-mutable | Range Sum Query - Mutable | Medium | java | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.java) |
 | rectangle-overlap | Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
 | reverse-words-in-a-string | Reverse Words in a String | Medium | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./solutions/Medium/0151-reverse-words-in-a-string/solution.java) |
 | rotate-function | Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
+| sliding-window-maximum | 239. Sliding Window Maximum | Hard | java | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.java) |
+| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
+| add-digits | 258. Add Digits | Easy | java | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.java) |
+| perfect-squares | 279. Perfect Squares | Medium | java | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.java) |
 | serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.java) |
 | bulls-and-cows | 299. Bulls And Cows | Medium | java | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.java) |
 | coin-change | 322. Coin Change | Medium | java | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.java) |
@@ -177,10 +177,6 @@
 | convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | reverse-pairs | 493. Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
 | random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
-| split-array-largest-sum | Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
-| sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
-| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
-| unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
 | valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
@@ -205,4 +201,9 @@
 | construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
 | smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
+| split-array-largest-sum | Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
+| substring-with-concatenation-of-all-words | Substring with Concatenation of All Words | Hard | java | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.java) |
+| sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
+| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
+| unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
 | x-of-a-kind-in-a-deck-of-cards | X of a Kind in a Deck of Cards | Easy | java | [Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Solution](./solutions/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.java) |
