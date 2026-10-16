@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Dynamic Programming
 // Link     : https://leetcode.com/problems/unique-substrings-in-wraparound-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42240000 (beats 0%)
+// Runtime  : 10 ms (beats 35%)
+// Memory   : 44164000 (beats 99%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
