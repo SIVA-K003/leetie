@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 199 Solved
+## Progress Summary: 200 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,6 +27,7 @@
 | construct-binary-tree-from-preorder-and-postorder-traversal | Construct Binary Tree from Preorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
+| count-the-repetitions | Count The Repetitions | Hard | java | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.java) |
 | count-ways-to-make-array-with-product | Count Ways to Make Array With Product | Hard | java | [Problem](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Solution](./solutions/Hard/1735-count-ways-to-make-array-with-product/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | evaluate-the-bracket-pairs-of-a-string | Evaluate the Bracket Pairs of a String | Medium | java | [Problem](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./solutions/Medium/1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
