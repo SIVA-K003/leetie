@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 198 Solved
+## Progress Summary: 199 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -36,7 +36,6 @@
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | find-pivot-index | Find Pivot Index | Easy | java | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.java) |
 | find-the-difference | Find the Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
-| find-two-non-overlapping-sub-arrays-each-with-target-sum | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
 | find-x-value-of-array-i | Find X Value of Array I | Medium | java | [Problem](https://leetcode.com/problems/find-x-value-of-array-i/) | [Solution](./solutions/Medium/3524-find-x-value-of-array-i/solution.java) |
 | find-x-value-of-array-ii | Find X Value of Array II | Hard | java | [Problem](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Solution](./solutions/Hard/3525-find-x-value-of-array-ii/solution.java) |
 | first-missing-positive | First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
@@ -85,6 +84,7 @@
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
 | reorder-list | Reorder List | Medium | java | [Problem](https://leetcode.com/problems/reorder-list/) | [Solution](./solutions/Medium/0143-reorder-list/solution.java) |
 | reorganize-string | Reorganize String | Medium | java | [Problem](https://leetcode.com/problems/reorganize-string/) | [Solution](./solutions/Medium/0767-reorganize-string/solution.java) |
+| repeated-substring-pattern | Repeated Substring Pattern | Easy | java | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.java) |
 | reverse-degree-of-a-string | Reverse Degree of a String | Easy | java | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.java) |
 | reverse-substrings-between-each-pair-of-parentheses | Reverse Substrings Between Each Pair of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution](./solutions/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
 | rotate-string | Rotate String | Easy | java | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.java) |
@@ -133,6 +133,7 @@
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
 | dungeon-game | Dungeon Game | Hard | java | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.java) |
 | evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
+| find-two-non-overlapping-sub-arrays-each-with-target-sum | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
 | frog-jump | Frog Jump | Hard | java | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.java) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.java) |
 | house-robber-ii | House Robber II | Medium | java | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.java) |
