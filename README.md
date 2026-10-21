@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 208 Solved
+## Progress Summary: 209 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,7 +24,6 @@
 | check-if-there-is-a-valid-parentheses-string-path | Check if There Is a Valid Parentheses String Path | Hard | java | [Problem](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Solution](./solutions/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/solution.java) |
 | circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | java | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.java) |
 | clone-graph | Clone Graph | Medium | java | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.java) |
-| combine-two-tables | 175. Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
 | construct-binary-tree-from-preorder-and-postorder-traversal | Construct Binary Tree from Preorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/solution.java) |
 | construct-quad-tree | Construct Quad Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
@@ -102,6 +101,7 @@
 | minimum-number-of-arrows-to-burst-balloons | Minimum Number of Arrows to Burst Balloons | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](./solutions/Medium/0452-minimum-number-of-arrows-to-burst-balloons/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | Minimum Operations to Make Every Element Palindromic | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/0000-minimum-operations-to-make-every-element-palindromic/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
+| minimum-operations-to-sort-a-string | Minimum Operations to Sort a String | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Solution](./solutions/Medium/3863-minimum-operations-to-sort-a-string/solution.java) |
 | minimum-sum-of-squared-difference | Minimum Sum of Squared Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Solution](./solutions/Medium/2333-minimum-sum-of-squared-difference/solution.java) |
 | mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
 | my-calendar-ii | My Calendar II | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.java) |
@@ -165,6 +165,7 @@
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | max-points-on-a-line | 149. Max Points On A Line | Hard | java | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.java) |
+| combine-two-tables | 175. Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
 | house-robber | 198. House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
 | contains-duplicate-ii | 219. Contains Duplicate Ii | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
 | contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | java | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.java) |
