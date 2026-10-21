@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack
 // Link     : https://leetcode.com/problems/ones-and-zeroes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 40984000 (beats 0%)
+// Runtime  : 20 ms (beats 64%)
+// Memory   : 43224000 (beats 95%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
