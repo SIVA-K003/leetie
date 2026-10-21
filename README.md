@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 210 Solved
+## Progress Summary: 211 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -80,6 +80,7 @@
 | lowest-common-ancestor-of-a-binary-search-tree | Lowest Common Ancestor of a Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.java) |
 | lowest-common-ancestor-of-a-binary-tree | Lowest Common Ancestor of a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./solutions/Medium/0236-lowest-common-ancestor-of-a-binary-tree/solution.java) |
 | lru-cache | LRU Cache | Medium | java | [Problem](https://leetcode.com/problems/lru-cache/) | [Solution](./solutions/Medium/0146-lru-cache/solution.java) |
+| matchsticks-to-square | Matchsticks to Square | Medium | java | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.java) |
 | max-sum-of-rectangle-no-larger-than-k | Max Sum of Rectangle No Larger Than K | Hard | java | [Problem](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Solution](./solutions/Hard/0363-max-sum-of-rectangle-no-larger-than-k/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximize-sum-of-squares-of-digits | Maximize Sum of Squares of Digits | Medium | java | [Problem](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Solution](./solutions/Medium/3723-maximize-sum-of-squares-of-digits/solution.java) |
