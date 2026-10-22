@@ -3,54 +3,49 @@
 // Difficulty: Medium
 // Tags     : Array
 // Link     : https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41012000 (beats 0%)
+// Runtime  : 4 ms (beats 72%)
+// Memory   : 94192000 (beats 97%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
+
 class Solution {
+
     public int minOperations(int[] nums) {
-        int n = nums.length;
-        int ans = Integer.MAX_VALUE;
-        
-        // 1. Check increasing order rotation
-        Integer incShift = null;
-        boolean possibleInc = true;
-        for (int i = 0; i < n; i++) {
-            int shift = (i - nums[i] + n) % n;
-            if (incShift == null) {
-                incShift = shift;
-            } else if (incShift != shift) {
-                possibleInc = false;
-                break;
+        final int s = nums.length;
+        if (s == 1) {
+            return 0;
+        }
+
+        int start = 0;
+        while (nums[start] != 0) {
+            start++;
+        }
+
+        boolean a = true;
+        boolean d = true;
+
+        for (int i = 1; i < s; i++) {
+            final int value = nums[(start + i) % s];
+
+            if (value != i) {
+                a = false;
+            }
+            if (value != s - i) {
+                d = false;
+            }
+
+            if (!a && !d) {
+                return -1;
             }
         }
-        
-        if (possibleInc) {
-            ans = Math.min(ans, incShift);
-            ans = Math.min(ans, incShift + 2);
+
+        if (a) {
+            return Math.min(start, s - start + 2);
         }
-        
-        // 2. Check decreasing order rotation
-        Integer decShift = null;
-        boolean possibleDec = true;
-        for (int i = 0; i < n; i++) {
-            int shift = (i + nums[i]) % n;
-            if (decShift == null) {
-                decShift = shift;
-            } else if (decShift != shift) {
-                possibleDec = false;
-                break;
-            }
-        }
-        
-        if (possibleDec) {
-            ans = Math.min(ans, decShift + 1);
-            ans = Math.min(ans, decShift + 3);
-        }
-        
-        return ans == Integer.MAX_VALUE ? -1 : ans;
+
+        return Math.min(s - start, start + 2);
     }
 }
