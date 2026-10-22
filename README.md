@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 213 Solved
+## Progress Summary: 214 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -103,6 +103,7 @@
 | minimum-number-of-arrows-to-burst-balloons | Minimum Number of Arrows to Burst Balloons | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](./solutions/Medium/0452-minimum-number-of-arrows-to-burst-balloons/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | Minimum Operations to Make Every Element Palindromic | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/0000-minimum-operations-to-make-every-element-palindromic/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
+| minimum-operations-to-sort-a-permutation | Minimum Operations to Sort a Permutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Solution](./solutions/Medium/3942-minimum-operations-to-sort-a-permutation/solution.java) |
 | minimum-operations-to-sort-a-string | Minimum Operations to Sort a String | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Solution](./solutions/Medium/3863-minimum-operations-to-sort-a-string/solution.java) |
 | minimum-sum-of-squared-difference | Minimum Sum of Squared Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Solution](./solutions/Medium/2333-minimum-sum-of-squared-difference/solution.java) |
 | mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
