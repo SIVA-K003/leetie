@@ -4,7 +4,7 @@
 // Tags     : Array
 // Link     : https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 40940000 (beats 0%)
+// Memory   : 41012000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
@@ -47,8 +47,8 @@ class Solution {
         }
         
         if (possibleDec) {
-            ans = Math.min(ans, 1 + decShift);
-            ans = Math.min(ans, decShift + 2);
+            ans = Math.min(ans, decShift + 1);
+            ans = Math.min(ans, decShift + 3);
         }
         
         return ans == Integer.MAX_VALUE ? -1 : ans;
