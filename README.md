@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 215 Solved
+## Progress Summary: 216 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -88,6 +88,7 @@
 | maximum-area-rectangle-with-point-constraints-ii | Maximum Area Rectangle With Point Constraints II | Hard | java | [Problem](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/) | [Solution](./solutions/Hard/3382-maximum-area-rectangle-with-point-constraints-ii/solution.java) |
 | maximum-binary-tree | Maximum Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.java) |
 | maximum-gap | Maximum Gap | Medium | java | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.java) |
+| maximum-k-to-sort-a-permutation | Maximum K to Sort a Permutation | Medium | java | [Problem](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Solution](./solutions/Medium/3644-maximum-k-to-sort-a-permutation/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
 | maximum-nesting-depth-of-two-valid-parentheses-strings | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Solution](./solutions/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
