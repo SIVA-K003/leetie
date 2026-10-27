@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 225 Solved
+## Progress Summary: 226 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| 3sum-with-multiplicity | 3Sum With Multiplicity | Medium | java | [Problem](https://leetcode.com/problems/3sum-with-multiplicity/) | [Solution](./solutions/Medium/0923-3sum-with-multiplicity/solution.java) |
 | add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
 | apply-operations-on-array-to-maximize-sum-of-squares | Apply Operations on Array to Maximize Sum of Squares | Hard | java | [Problem](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Solution](./solutions/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.java) |
 | arithmetic-slices-ii-subsequence | Arithmetic Slices II - Subsequence | Hard | java | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.java) |
