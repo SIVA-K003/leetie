@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 221 Solved
+## Progress Summary: 222 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -111,6 +111,7 @@
 | minimum-operations-to-sort-a-string | Minimum Operations to Sort a String | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Solution](./solutions/Medium/3863-minimum-operations-to-sort-a-string/solution.java) |
 | minimum-sum-of-squared-difference | Minimum Sum of Squared Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Solution](./solutions/Medium/2333-minimum-sum-of-squared-difference/solution.java) |
 | mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
+| most-common-word | Most Common Word | Easy | java | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.java) |
 | my-calendar-ii | My Calendar II | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.java) |
 | my-calendar-iii | My Calendar III | Hard | java | [Problem](https://leetcode.com/problems/my-calendar-iii/) | [Solution](./solutions/Hard/0732-my-calendar-iii/solution.java) |
 | n-ary-tree-postorder-traversal | N-ary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0590-n-ary-tree-postorder-traversal/solution.java) |
