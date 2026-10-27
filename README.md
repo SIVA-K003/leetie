@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 227 Solved
+## Progress Summary: 228 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -106,6 +106,7 @@
 | subarray-product-less-than-k | Subarray Product Less Than K | Medium | java | [Problem](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./solutions/Medium/0713-subarray-product-less-than-k/solution.java) |
 | subarrays-distinct-element-sum-of-squares-i | Subarrays Distinct Element Sum of Squares I | Easy | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Solution](./solutions/Easy/2913-subarrays-distinct-element-sum-of-squares-i/solution.java) |
 | subarrays-distinct-element-sum-of-squares-ii | Subarrays Distinct Element Sum of Squares II | Hard | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [Solution](./solutions/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/solution.java) |
+| subarrays-with-k-different-integers | Subarrays with K Different Integers | Hard | java | [Problem](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Solution](./solutions/Hard/0992-subarrays-with-k-different-integers/solution.java) |
 | subdomain-visit-count | Subdomain Visit Count | Medium | java | [Problem](https://leetcode.com/problems/subdomain-visit-count/) | [Solution](./solutions/Medium/0811-subdomain-visit-count/solution.java) |
 | sum-of-sortable-integers | Sum of Sortable Integers | Hard | java | [Problem](https://leetcode.com/problems/sum-of-sortable-integers/) | [Solution](./solutions/Hard/3886-sum-of-sortable-integers/solution.java) |
 | sum-of-squares-of-special-elements | Sum of Squares of Special Elements | Easy | java | [Problem](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Solution](./solutions/Easy/2778-sum-of-squares-of-special-elements/solution.java) |
