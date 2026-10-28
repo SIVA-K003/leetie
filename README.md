@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 233 Solved
+## Progress Summary: 234 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -87,6 +87,7 @@
 | minimum-operations-to-sort-a-permutation | Minimum Operations to Sort a Permutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Solution](./solutions/Medium/3942-minimum-operations-to-sort-a-permutation/solution.java) |
 | minimum-operations-to-sort-a-string | Minimum Operations to Sort a String | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Solution](./solutions/Medium/3863-minimum-operations-to-sort-a-string/solution.java) |
 | minimum-sum-of-squared-difference | Minimum Sum of Squared Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Solution](./solutions/Medium/2333-minimum-sum-of-squared-difference/solution.java) |
+| minimum-xor-path-in-a-grid | Minimum XOR Path in a Grid | Medium | java | [Problem](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Solution](./solutions/Medium/3882-minimum-xor-path-in-a-grid/solution.java) |
 | most-common-word | Most Common Word | Easy | java | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.java) |
 | my-calendar-ii | My Calendar II | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.java) |
 | my-calendar-iii | My Calendar III | Hard | java | [Problem](https://leetcode.com/problems/my-calendar-iii/) | [Solution](./solutions/Hard/0732-my-calendar-iii/solution.java) |
