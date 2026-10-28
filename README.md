@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 236 Solved
+## Progress Summary: 237 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 3sum-with-multiplicity | 3Sum With Multiplicity | Medium | java | [Problem](https://leetcode.com/problems/3sum-with-multiplicity/) | [Solution](./solutions/Medium/0923-3sum-with-multiplicity/solution.java) |
 | add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
+| all-oone-data-structure | All O`one Data Structure | Hard | java | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.java) |
 | apply-operations-on-array-to-maximize-sum-of-squares | Apply Operations on Array to Maximize Sum of Squares | Hard | java | [Problem](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Solution](./solutions/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.java) |
 | arithmetic-slices | Arithmetic Slices | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.java) |
 | arithmetic-slices-ii-subsequence | Arithmetic Slices II - Subsequence | Hard | java | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.java) |
@@ -25,24 +26,15 @@
 | check-if-there-is-a-valid-parentheses-string-path | Check if There Is a Valid Parentheses String Path | Hard | java | [Problem](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Solution](./solutions/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/solution.java) |
 | circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | java | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.java) |
 | clone-graph | Clone Graph | Medium | java | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.java) |
-| combine-two-tables | 175. Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
 | concatenated-words | Concatenated Words | Hard | java | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.java) |
 | construct-binary-tree-from-preorder-and-postorder-traversal | Construct Binary Tree from Preorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/solution.java) |
 | construct-quad-tree | Construct Quad Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
-| contains-duplicate-ii | 219. Contains Duplicate Ii | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
-| add-digits | 258. Add Digits | Easy | java | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.java) |
-| convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | count-islands-with-total-value-divisible-by-k | Count Islands With Total Value Divisible by K | Medium | java | [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Solution](./solutions/Medium/3619-count-islands-with-total-value-divisible-by-k/solution.java) |
 | count-the-repetitions | Count The Repetitions | Hard | java | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.java) |
 | count-ways-to-make-array-with-product | Count Ways to Make Array With Product | Hard | java | [Problem](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Solution](./solutions/Hard/1735-count-ways-to-make-array-with-product/solution.java) |
 | create-grid-with-exactly-one-path | Create Grid With Exactly One Path | Easy | java | [Problem](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Solution](./solutions/Easy/3963-create-grid-with-exactly-one-path/solution.java) |
 | data-stream-as-disjoint-intervals | Data Stream as Disjoint Intervals | Hard | java | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.java) |
-| degree-of-an-array | 697. Degree Of An Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
-| count-commas-in-range | 3870. Count Commas In Range | Easy | java | [Problem](https://leetcode.com/problems/count-commas-in-range/) | [Solution](./solutions/Easy/3870-count-commas-in-range/solution.java) |
-| construct-uniform-parity-array-i | 3875. Construct Uniform Parity Array I | Easy | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.java) |
-| design-circular-queue | Design Circular Queue | Medium | java | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.java) |
-| design-hashset | 705. Design Hashset | Easy | java | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.java) |
 | distant-barcodes | Distant Barcodes | Medium | java | [Problem](https://leetcode.com/problems/distant-barcodes/) | [Solution](./solutions/Medium/1054-distant-barcodes/solution.java) |
 | evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | java | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.java) |
 | evaluate-the-bracket-pairs-of-a-string | Evaluate the Bracket Pairs of a String | Medium | java | [Problem](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Solution](./solutions/Medium/1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
@@ -67,7 +59,6 @@
 | longest-palindrome | Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
 | longest-substring-with-at-least-k-repeating-characters | Longest Substring with At Least K Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.java) |
 | longest-valid-parentheses | 32. Longest Valid Parentheses | Hard | java | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.java) |
-| lowest-common-ancestor-of-a-binary-tree | Lowest Common Ancestor of a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./solutions/Medium/0236-lowest-common-ancestor-of-a-binary-tree/solution.java) |
 | lru-cache | LRU Cache | Medium | java | [Problem](https://leetcode.com/problems/lru-cache/) | [Solution](./solutions/Medium/0146-lru-cache/solution.java) |
 | matchsticks-to-square | Matchsticks to Square | Medium | java | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.java) |
 | max-sum-of-rectangle-no-larger-than-k | Max Sum of Rectangle No Larger Than K | Hard | java | [Problem](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Solution](./solutions/Hard/0363-max-sum-of-rectangle-no-larger-than-k/solution.java) |
@@ -94,7 +85,20 @@
 | n-ary-tree-postorder-traversal | N-ary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0590-n-ary-tree-postorder-traversal/solution.java) |
 | n-ary-tree-preorder-traversal | N-ary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.java) |
 | next-permutation | 31. Next Permutation | Medium | java | [Problem](https://leetcode.com/problems/next-permutation/) | [Solution](./solutions/Medium/0031-next-permutation/solution.java) |
-| nim-game | Nim Game | Easy | java | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.java) |
+| combine-two-tables | 175. Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
+| contains-duplicate-ii | 219. Contains Duplicate Ii | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
+| contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | java | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.java) |
+| add-digits | 258. Add Digits | Easy | java | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.java) |
+| count-commas-in-range | 3870. Count Commas In Range | Easy | java | [Problem](https://leetcode.com/problems/count-commas-in-range/) | [Solution](./solutions/Easy/3870-count-commas-in-range/solution.java) |
+| design-circular-queue | Design Circular Queue | Medium | java | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.java) |
+| distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
+| house-robber | 198. House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
+| is-subsequence | 392. Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
+| degree-of-an-array | 697. Degree Of An Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
+| design-hashset | 705. Design Hashset | Easy | java | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.java) |
+| design-hashmap | 706. Design Hashmap | Easy | java | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.java) |
+| kth-smallest-element-in-a-bst | Kth Smallest Element in a BST | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./solutions/Medium/0230-kth-smallest-element-in-a-bst/solution.java) |
+| lowest-common-ancestor-of-a-binary-tree | Lowest Common Ancestor of a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./solutions/Medium/0236-lowest-common-ancestor-of-a-binary-tree/solution.java) |
 | non-overlapping-intervals | Non-overlapping Intervals | Medium | java | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.java) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
 | number-of-equivalent-domino-pairs | Number of Equivalent Domino Pairs | Easy | java | [Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Solution](./solutions/Easy/1128-number-of-equivalent-domino-pairs/solution.java) |
@@ -143,10 +147,7 @@
 | valid-parenthesis-string | Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
 | validate-ip-address | Validate IP Address | Medium | java | [Problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](./solutions/Medium/0468-validate-ip-address/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
-| distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | max-points-on-a-line | 149. Max Points On A Line | Hard | java | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.java) |
-| house-robber | 198. House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
-| contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | java | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.java) |
 | sliding-window-maximum | 239. Sliding Window Maximum | Hard | java | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.java) |
 | search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
 | perfect-squares | 279. Perfect Squares | Medium | java | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.java) |
@@ -160,15 +161,14 @@
 | power-of-four | 342. Power Of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
 | intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
 | sum-of-two-integers | 371. Sum Of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
-| is-subsequence | 392. Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
 | decode-string | 394. Decode String | Medium | java | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.java) |
 | remove-k-digits | 402. Remove K Digits | Medium | java | [Problem](https://leetcode.com/problems/remove-k-digits/) | [Solution](./solutions/Medium/0402-remove-k-digits/solution.java) |
+| convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | reverse-pairs | 493. Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
 | random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
 | valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
-| design-hashmap | 706. Design Hashmap | Easy | java | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.java) |
 | range-module | 715. Range Module | Hard | java | [Problem](https://leetcode.com/problems/range-module/) | [Solution](./solutions/Hard/0715-range-module/solution.java) |
 | self-dividing-numbers | 728. Self Dividing Numbers | Easy | java | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.java) |
 | my-calendar-i | 729. My Calendar I | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-i/) | [Solution](./solutions/Medium/0729-my-calendar-i/solution.java) |
@@ -182,6 +182,7 @@
 | make-lexicographically-smallest-array-by-swapping-elements | 2948. Make Lexicographically Smallest Array By Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
 | minimum-moves-to-clean-the-classroom | 3568. Minimum Moves To Clean The Classroom | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.java) |
 | count-commas-in-range-ii | 3871. Count Commas In Range Ii | Medium | java | [Problem](https://leetcode.com/problems/count-commas-in-range-ii/) | [Solution](./solutions/Medium/3871-count-commas-in-range-ii/solution.java) |
+| construct-uniform-parity-array-i | 3875. Construct Uniform Parity Array I | Easy | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.java) |
 | construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
 | count-shadow-pairs-i | Count Shadow Pairs I | Medium | java | [Problem](https://leetcode.com/problems/count-shadow-pairs-i/) | [Solution](./solutions/Medium/0000-count-shadow-pairs-i/solution.java) |
@@ -207,7 +208,6 @@
 | implement-stack-using-queues | Implement Stack using Queues | Easy | java | [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./solutions/Easy/0225-implement-stack-using-queues/solution.java) |
 | insertion-sort-list | Insertion Sort List | Medium | java | [Problem](https://leetcode.com/problems/insertion-sort-list/) | [Solution](./solutions/Medium/0147-insertion-sort-list/solution.java) |
 | integer-replacement | Integer Replacement | Medium | java | [Problem](https://leetcode.com/problems/integer-replacement/) | [Solution](./solutions/Medium/0397-integer-replacement/solution.java) |
-| kth-smallest-element-in-a-bst | Kth Smallest Element in a BST | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./solutions/Medium/0230-kth-smallest-element-in-a-bst/solution.java) |
 | linked-list-cycle | Linked List Cycle | Easy | java | [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./solutions/Easy/0141-linked-list-cycle/solution.java) |
 | linked-list-cycle-ii | Linked List Cycle II | Medium | java | [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./solutions/Medium/0142-linked-list-cycle-ii/solution.java) |
 | lowest-common-ancestor-of-a-binary-search-tree | Lowest Common Ancestor of a Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.java) |
@@ -222,6 +222,7 @@
 | minimum-days-to-score-exactly-n-points | Minimum Days to Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/4406-minimum-days-to-score-exactly-n-points/solution.java) |
 | minimum-operations-to-make-every-element-palindromic | Minimum Operations to Make Every Element Palindromic | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Solution](./solutions/Medium/0000-minimum-operations-to-make-every-element-palindromic/solution.java) |
 | mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
+| nim-game | Nim Game | Easy | java | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.java) |
 | number-of-digit-one | Number of Digit One | Hard | java | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.java) |
 | number-of-sets-of-k-non-overlapping-line-segments | Number of Sets of K Non-Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
