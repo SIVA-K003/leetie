@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 246 Solved
+## Progress Summary: 247 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,10 +10,7 @@
 | add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
 | all-oone-data-structure | All O`one Data Structure | Hard | java | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.java) |
 | apply-operations-on-array-to-maximize-sum-of-squares | Apply Operations on Array to Maximize Sum of Squares | Hard | java | [Problem](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Solution](./solutions/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.java) |
-| arithmetic-slices | Arithmetic Slices | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.java) |
 | arithmetic-slices-ii-subsequence | Arithmetic Slices II - Subsequence | Hard | java | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.java) |
-| best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.java) |
-| best-time-to-buy-and-sell-stock-iv | Best Time to Buy and Sell Stock IV | Hard | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](./solutions/Hard/0188-best-time-to-buy-and-sell-stock-iv/solution.java) |
 | best-time-to-buy-and-sell-stock-with-cooldown | Best Time to Buy and Sell Stock with Cooldown | Medium | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](./solutions/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/solution.java) |
 | binary-search-tree-iterator | Binary Search Tree Iterator | Medium | java | [Problem](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](./solutions/Medium/0173-binary-search-tree-iterator/solution.java) |
 | binary-tree-paths | Binary Tree Paths | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.java) |
@@ -22,12 +19,8 @@
 | binary-tree-right-side-view | Binary Tree Right Side View | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.java) |
 | brace-expansion-ii | Brace Expansion II | Hard | java | [Problem](https://leetcode.com/problems/brace-expansion-ii/) | [Solution](./solutions/Hard/1096-brace-expansion-ii/solution.java) |
 | burst-balloons | Burst Balloons | Hard | java | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.java) |
-| can-i-win | Can I Win | Medium | java | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.java) |
 | check-if-there-is-a-valid-parentheses-string-path | Check if There Is a Valid Parentheses String Path | Hard | java | [Problem](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Solution](./solutions/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/solution.java) |
-| circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | java | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.java) |
-| clone-graph | Clone Graph | Medium | java | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.java) |
 | concatenated-words | Concatenated Words | Hard | java | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.java) |
-| construct-binary-tree-from-preorder-and-postorder-traversal | Construct Binary Tree from Preorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/solution.java) |
 | construct-quad-tree | Construct Quad Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
 | count-islands-with-total-value-divisible-by-k | Count Islands With Total Value Divisible by K | Medium | java | [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Solution](./solutions/Medium/3619-count-islands-with-total-value-divisible-by-k/solution.java) |
@@ -52,6 +45,7 @@
 | first-unique-character-in-a-string | First Unique Character in a String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
 | graph-connectivity-with-threshold | Graph Connectivity With Threshold | Hard | java | [Problem](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [Solution](./solutions/Hard/1627-graph-connectivity-with-threshold/solution.java) |
 | implement-queue-using-stacks | Implement Queue using Stacks | Easy | java | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./solutions/Easy/0232-implement-queue-using-stacks/solution.java) |
+| increasing-order-search-tree | Increasing Order Search Tree | Easy | java | [Problem](https://leetcode.com/problems/increasing-order-search-tree/) | [Solution](./solutions/Easy/0897-increasing-order-search-tree/solution.java) |
 | jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
 | kth-largest-element-in-an-array | Kth Largest Element in an Array | Medium | java | [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./solutions/Medium/0215-kth-largest-element-in-an-array/solution.java) |
 | kth-smallest-element-in-a-sorted-matrix | Kth Smallest Element in a Sorted Matrix | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution](./solutions/Medium/0378-kth-smallest-element-in-a-sorted-matrix/solution.java) |
@@ -93,6 +87,13 @@
 | combine-two-tables | 175. Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
 | contains-duplicate-ii | 219. Contains Duplicate Ii | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
 | add-digits | 258. Add Digits | Easy | java | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.java) |
+| arithmetic-slices | Arithmetic Slices | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.java) |
+| best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.java) |
+| best-time-to-buy-and-sell-stock-iv | Best Time to Buy and Sell Stock IV | Hard | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](./solutions/Hard/0188-best-time-to-buy-and-sell-stock-iv/solution.java) |
+| can-i-win | Can I Win | Medium | java | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.java) |
+| circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | java | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.java) |
+| clone-graph | Clone Graph | Medium | java | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.java) |
+| construct-binary-tree-from-preorder-and-postorder-traversal | Construct Binary Tree from Preorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/solution.java) |
 | count-commas-in-range | 3870. Count Commas In Range | Easy | java | [Problem](https://leetcode.com/problems/count-commas-in-range/) | [Solution](./solutions/Easy/3870-count-commas-in-range/solution.java) |
 | design-circular-queue | Design Circular Queue | Medium | java | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.java) |
 | distinct-subsequences | 115. Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
