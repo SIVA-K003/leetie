@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 241 Solved
+## Progress Summary: 242 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -188,6 +188,7 @@
 | number-of-sets-of-k-non-overlapping-line-segments | Number of Sets of K Non-Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | ones-and-zeroes | Ones and Zeroes | Medium | java | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.java) |
 | pairs-of-songs-with-total-durations-divisible-by-60 | Pairs of Songs With Total Durations Divisible by 60 | Medium | java | [Problem](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution](./solutions/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/solution.java) |
+| palindromic-path-queries-in-a-tree | Palindromic Path Queries in a Tree | Hard | java | [Problem](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Solution](./solutions/Hard/3841-palindromic-path-queries-in-a-tree/solution.java) |
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
 | peaks-in-array | Peaks in Array | Hard | java | [Problem](https://leetcode.com/problems/peaks-in-array/) | [Solution](./solutions/Hard/3187-peaks-in-array/solution.java) |
 | perfect-rectangle | Perfect Rectangle | Hard | java | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.java) |
