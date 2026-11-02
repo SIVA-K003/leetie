@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 249 Solved
+## Progress Summary: 250 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,6 +26,7 @@
 | count-islands-with-total-value-divisible-by-k | Count Islands With Total Value Divisible by K | Medium | java | [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Solution](./solutions/Medium/3619-count-islands-with-total-value-divisible-by-k/solution.java) |
 | count-the-repetitions | Count The Repetitions | Hard | java | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.java) |
 | count-ways-to-make-array-with-product | Count Ways to Make Array With Product | Hard | java | [Problem](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Solution](./solutions/Hard/1735-count-ways-to-make-array-with-product/solution.java) |
+| create-binary-tree-from-descriptions | Create Binary Tree From Descriptions | Medium | java | [Problem](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Solution](./solutions/Medium/2196-create-binary-tree-from-descriptions/solution.java) |
 | create-grid-with-exactly-one-path | Create Grid With Exactly One Path | Easy | java | [Problem](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Solution](./solutions/Easy/3963-create-grid-with-exactly-one-path/solution.java) |
 | data-stream-as-disjoint-intervals | Data Stream as Disjoint Intervals | Hard | java | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.java) |
 | decoded-string-at-index | Decoded String at Index | Medium | java | [Problem](https://leetcode.com/problems/decoded-string-at-index/) | [Solution](./solutions/Medium/0880-decoded-string-at-index/solution.java) |
