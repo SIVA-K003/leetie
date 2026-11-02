@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 253 Solved
+## Progress Summary: 254 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -120,6 +120,7 @@
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
 | number-of-equivalent-domino-pairs | Number of Equivalent Domino Pairs | Easy | java | [Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Solution](./solutions/Easy/1128-number-of-equivalent-domino-pairs/solution.java) |
 | number-of-segments-in-a-string | Number of Segments in a String | Easy | java | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.java) |
+| number-of-ways-to-assign-edge-weights-i | Number of Ways to Assign Edge Weights I | Medium | java | [Problem](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Solution](./solutions/Medium/3558-number-of-ways-to-assign-edge-weights-i/solution.java) |
 | ones-and-zeroes | Ones and Zeroes | Medium | java | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.java) |
 | pairs-of-songs-with-total-durations-divisible-by-60 | Pairs of Songs With Total Durations Divisible by 60 | Medium | java | [Problem](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution](./solutions/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/solution.java) |
 | palindromic-path-queries-in-a-tree | Palindromic Path Queries in a Tree | Hard | java | [Problem](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Solution](./solutions/Hard/3841-palindromic-path-queries-in-a-tree/solution.java) |
