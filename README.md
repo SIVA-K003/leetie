@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 259 Solved
+## Progress Summary: 260 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -205,6 +205,7 @@
 | convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | reverse-pairs | 493. Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
 | random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
+| surface-area-of-3d-shapes | Surface Area of 3D Shapes | Easy | java | [Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [Solution](./solutions/Easy/0892-surface-area-of-3d-shapes/solution.java) |
 | tag-validator | Tag Validator | Hard | java | [Problem](https://leetcode.com/problems/tag-validator/) | [Solution](./solutions/Hard/0591-tag-validator/solution.java) |
 | the-skyline-problem | The Skyline Problem | Hard | java | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.java) |
 | top-k-frequent-words | Top K Frequent Words | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./solutions/Medium/0692-top-k-frequent-words/solution.java) |
