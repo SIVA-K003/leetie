@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 265 Solved
+## Progress Summary: 266 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -171,6 +171,7 @@
 | rle-iterator | RLE Iterator | Medium | java | [Problem](https://leetcode.com/problems/rle-iterator/) | [Solution](./solutions/Medium/0900-rle-iterator/solution.java) |
 | rotate-string | Rotate String | Easy | java | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.java) |
 | score-of-parentheses | Score of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.java) |
+| second-highest-salary | Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | serialize-and-deserialize-bst | Serialize and Deserialize BST | Medium | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.java) |
 | shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | java | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.java) |
 | sliding-window-maximum | 239. Sliding Window Maximum | Hard | java | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.java) |
