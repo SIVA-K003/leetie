@@ -4,7 +4,7 @@
 // Tags     : Array, Stack, Segment Tree, Queue, Sliding Window, Monotonic Stack, Monotonic Queue
 // Link     : https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 41188000 (beats 0%)
+// Memory   : 41472000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
@@ -19,32 +19,34 @@ class Solution {
         long totalSubarrays = 0;
         long currentCost = 0;
         
-        // Monotonic stack/deque to store [value, count]
+        // Deque stores pairs of [value, count] representing blocks in our monotonic stack
         Deque<long[]> deque = new ArrayDeque<>();
-        int l = n - 1;
+        int j = n - 1;
         
-        for (int r = n - 1; r >= 0; r--) {
+        for (int i = n - 1; i >= 0; --i) {
+            long num = nums[i];
             long count = 1;
-            while (!deque.isEmpty() && deque.peekFirst()[0] < nums[r]) {
-                long[] prev = deque.pollFirst();
-                currentCost += (prev[0] - nums[r]) * prev[1];
+            
+            // Maintain monotonic decreasing order from right to left
+            while (!deque.isEmpty() && deque.peekLast()[0] < num) {
+                long[] prev = deque.pollLast();
+                currentCost += (num - prev[0]) * prev[1];
                 count += prev[1];
             }
-            deque.offerFirst(new long[]{nums[r], count});
+            deque.offerLast(new long[]{num, count});
             
-            while (currentCost > k) {
-                long[] last = deque.peekLast();
-                
-                currentCost -= (last[0] - nums[l]);
-                if (last[1] == 1) {
-                    deque.pollLast();
-                } else {
-                    last[1]--;
+            // Shrink the window from the right side (j) if cost exceeds k
+            while (currentCost > k && j >= 0) {
+                long[] front = deque.peekFirst();
+                currentCost -= (front[0] - nums[j]);
+                if (front[1] > 1) {
+                    deque.offerFirst(new long[]{front[0], front[1] - 1});
                 }
-                l--;
+                deque.pollFirst(); // Remove the fully processed or decremented front block element
+                j--;
             }
             
-            totalSubarrays += (l - r + 1);
+            totalSubarrays += (j - i + 1);
         }
         
         return totalSubarrays;
