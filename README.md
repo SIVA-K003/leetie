@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 269 Solved
+## Progress Summary: 270 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,6 +27,7 @@
 | circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | java | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.java) |
 | clone-graph | Clone Graph | Medium | java | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.java) |
 | concatenated-words | Concatenated Words | Hard | java | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.java) |
+| consecutive-numbers | Consecutive Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/consecutive-numbers/) | [Solution](./solutions/Medium/0180-consecutive-numbers/solution.sql) |
 | construct-binary-tree-from-preorder-and-postorder-traversal | Construct Binary Tree from Preorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal/solution.java) |
 | construct-quad-tree | Construct Quad Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
