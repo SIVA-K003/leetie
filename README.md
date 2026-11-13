@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 266 Solved
+## Progress Summary: 267 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -145,6 +145,7 @@
 | contains-duplicate-ii | 219. Contains Duplicate Ii | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
 | contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | java | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.java) |
 | non-overlapping-intervals | Non-overlapping Intervals | Medium | java | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.java) |
+| nth-highest-salary | Nth Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/nth-highest-salary/) | [Solution](./solutions/Medium/0177-nth-highest-salary/solution.sql) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
 | number-of-equivalent-domino-pairs | Number of Equivalent Domino Pairs | Easy | java | [Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Solution](./solutions/Easy/1128-number-of-equivalent-domino-pairs/solution.java) |
 | number-of-segments-in-a-string | Number of Segments in a String | Easy | java | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.java) |
@@ -167,7 +168,6 @@
 | reordered-power-of-2 | Reordered Power of 2 | Medium | java | [Problem](https://leetcode.com/problems/reordered-power-of-2/) | [Solution](./solutions/Medium/0869-reordered-power-of-2/solution.java) |
 | reorganize-string | Reorganize String | Medium | java | [Problem](https://leetcode.com/problems/reorganize-string/) | [Solution](./solutions/Medium/0767-reorganize-string/solution.java) |
 | repeated-substring-pattern | Repeated Substring Pattern | Easy | java | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.java) |
-| reverse-substrings-between-each-pair-of-parentheses | Reverse Substrings Between Each Pair of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution](./solutions/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
 | rle-iterator | RLE Iterator | Medium | java | [Problem](https://leetcode.com/problems/rle-iterator/) | [Solution](./solutions/Medium/0900-rle-iterator/solution.java) |
 | rotate-string | Rotate String | Easy | java | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.java) |
 | score-of-parentheses | Score of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.java) |
@@ -234,6 +234,7 @@
 | ransom-note | Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
 | rectangle-overlap | Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
 | reverse-degree-of-a-string | Reverse Degree of a String | Easy | java | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.java) |
+| reverse-substrings-between-each-pair-of-parentheses | Reverse Substrings Between Each Pair of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution](./solutions/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
 | reverse-words-in-a-string | Reverse Words in a String | Medium | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./solutions/Medium/0151-reverse-words-in-a-string/solution.java) |
 | rotate-function | Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
 | self-dividing-numbers | 728. Self Dividing Numbers | Easy | java | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.java) |
