@@ -3,8 +3,8 @@
 -- Difficulty: Medium
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/rank-scores/
--- Runtime  : 76 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 332 ms (beats 66%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 SIVA-K003. All rights reserved.
 -- Synced by: leetie
