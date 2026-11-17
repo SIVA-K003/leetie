@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 279 Solved
+## Progress Summary: 280 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -123,6 +123,7 @@
 | minimum-absolute-distance-between-mirror-pairs | Minimum Absolute Distance Between Mirror Pairs | Medium | java | [Problem](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Solution](./solutions/Medium/3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
 | minimum-add-to-make-parentheses-valid | Minimum Add to Make Parentheses Valid | Medium | java | [Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](./solutions/Medium/0921-minimum-add-to-make-parentheses-valid/solution.java) |
 | minimum-area-rectangle | Minimum Area Rectangle | Medium | java | [Problem](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](./solutions/Medium/0939-minimum-area-rectangle/solution.java) |
+| minimum-changes-to-make-k-semi-palindromes | Minimum Changes to Make K Semi-palindromes | Hard | java | [Problem](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [Solution](./solutions/Hard/2911-minimum-changes-to-make-k-semi-palindromes/solution.java) |
 | minimum-days-to-score-exactly-n-points | Minimum Days to Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/4406-minimum-days-to-score-exactly-n-points/solution.java) |
 | minimum-increment-to-make-array-unique | Minimum Increment to Make Array Unique | Medium | java | [Problem](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Solution](./solutions/Medium/0945-minimum-increment-to-make-array-unique/solution.java) |
 | minimum-insertions-to-balance-a-parentheses-string | Minimum Insertions to Balance a Parentheses String | Medium | java | [Problem](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Solution](./solutions/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/solution.java) |
