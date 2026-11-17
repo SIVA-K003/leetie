@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Two Pointers, String, Dynamic Programming
 // Link     : https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
-// Runtime  : 150 ms (beats 77%)
-// Memory   : 46520000 (beats 53%)
+// Runtime  : 152 ms (beats 73%)
+// Memory   : 46632000 (beats 43%)
 // Language : java
 // Copyright: (c) 2026 SIVA-K003. All rights reserved.
 // Synced by: leetie
