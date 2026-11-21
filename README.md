@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 289 Solved
+## Progress Summary: 290 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -153,6 +153,7 @@
 | non-decreasing-subsequences | Non-decreasing Subsequences | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.java) |
 | non-overlapping-intervals | Non-overlapping Intervals | Medium | java | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.java) |
 | nth-highest-salary | Nth Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/nth-highest-salary/) | [Solution](./solutions/Medium/0177-nth-highest-salary/solution.sql) |
+| number-of-atoms | Number of Atoms | Hard | java | [Problem](https://leetcode.com/problems/number-of-atoms/) | [Solution](./solutions/Hard/0726-number-of-atoms/solution.java) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
 | number-of-digit-one | Number of Digit One | Hard | java | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.java) |
 | number-of-equivalent-domino-pairs | Number of Equivalent Domino Pairs | Easy | java | [Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Solution](./solutions/Easy/1128-number-of-equivalent-domino-pairs/solution.java) |
