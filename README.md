@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 295 Solved
+## Progress Summary: 296 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -212,6 +212,7 @@
 | subarrays-distinct-element-sum-of-squares-ii | Subarrays Distinct Element Sum of Squares II | Hard | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [Solution](./solutions/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/solution.java) |
 | subarrays-with-k-different-integers | Subarrays with K Different Integers | Hard | java | [Problem](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Solution](./solutions/Hard/0992-subarrays-with-k-different-integers/solution.java) |
 | subdomain-visit-count | Subdomain Visit Count | Medium | java | [Problem](https://leetcode.com/problems/subdomain-visit-count/) | [Solution](./solutions/Medium/0811-subdomain-visit-count/solution.java) |
+| subsets | Subsets | Medium | java | [Problem](https://leetcode.com/problems/subsets/) | [Solution](./solutions/Medium/0078-subsets/solution.java) |
 | substring-with-concatenation-of-all-words | Substring with Concatenation of All Words | Hard | java | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.java) |
 | sudoku-solver | Sudoku Solver | Hard | java | [Problem](https://leetcode.com/problems/sudoku-solver/) | [Solution](./solutions/Hard/0037-sudoku-solver/solution.java) |
 | sum-of-sortable-integers | Sum of Sortable Integers | Hard | java | [Problem](https://leetcode.com/problems/sum-of-sortable-integers/) | [Solution](./solutions/Hard/3886-sum-of-sortable-integers/solution.java) |
