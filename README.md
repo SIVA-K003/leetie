@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 301 Solved
+## Progress Summary: 302 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -122,6 +122,7 @@
 | maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | maximum-number-of-non-overlapping-substrings | Maximum Number of Non-Overlapping Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
+| maximum-subarray-with-equal-products | Maximum Subarray With Equal Products | Easy | java | [Problem](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [Solution](./solutions/Easy/3411-maximum-subarray-with-equal-products/solution.java) |
 | maximum-sum-of-3-non-overlapping-subarrays | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | java | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.java) |
 | maximum-total-subarray-value-i | Maximum Total Subarray Value I | Medium | java | [Problem](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Solution](./solutions/Medium/3689-maximum-total-subarray-value-i/solution.java) |
 | maximum-total-subarray-value-ii | Maximum Total Subarray Value II | Hard | java | [Problem](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [Solution](./solutions/Hard/3691-maximum-total-subarray-value-ii/solution.java) |
