@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 315 Solved
+## Progress Summary: 316 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -53,6 +53,7 @@
 | data-stream-as-disjoint-intervals | Data Stream as Disjoint Intervals | Hard | java | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.java) |
 | decoded-string-at-index | Decoded String at Index | Medium | java | [Problem](https://leetcode.com/problems/decoded-string-at-index/) | [Solution](./solutions/Medium/0880-decoded-string-at-index/solution.java) |
 | department-highest-salary | Department Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/department-highest-salary/) | [Solution](./solutions/Medium/0184-department-highest-salary/solution.sql) |
+| department-top-three-salaries | Department Top Three Salaries | Hard | mysql | [Problem](https://leetcode.com/problems/department-top-three-salaries/) | [Solution](./solutions/Hard/0185-department-top-three-salaries/solution.sql) |
 | design-circular-deque | Design Circular Deque | Medium | java | [Problem](https://leetcode.com/problems/design-circular-deque/) | [Solution](./solutions/Medium/0641-design-circular-deque/solution.java) |
 | distant-barcodes | Distant Barcodes | Medium | java | [Problem](https://leetcode.com/problems/distant-barcodes/) | [Solution](./solutions/Medium/1054-distant-barcodes/solution.java) |
 | dungeon-game | Dungeon Game | Hard | java | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.java) |
