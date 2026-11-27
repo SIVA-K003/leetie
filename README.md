@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 313 Solved
+## Progress Summary: 314 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -48,6 +48,7 @@
 | create-binary-tree-from-descriptions | Create Binary Tree From Descriptions | Medium | java | [Problem](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Solution](./solutions/Medium/2196-create-binary-tree-from-descriptions/solution.java) |
 | create-grid-with-exactly-one-path | Create Grid With Exactly One Path | Easy | java | [Problem](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Solution](./solutions/Easy/3963-create-grid-with-exactly-one-path/solution.java) |
 | create-maximum-number | Create Maximum Number | Hard | java | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.java) |
+| customers-who-never-order | Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
 | daily-temperatures | Daily Temperatures | Medium | java | [Problem](https://leetcode.com/problems/daily-temperatures/) | [Solution](./solutions/Medium/0739-daily-temperatures/solution.java) |
 | data-stream-as-disjoint-intervals | Data Stream as Disjoint Intervals | Hard | java | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.java) |
 | decoded-string-at-index | Decoded String at Index | Medium | java | [Problem](https://leetcode.com/problems/decoded-string-at-index/) | [Solution](./solutions/Medium/0880-decoded-string-at-index/solution.java) |
